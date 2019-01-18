@@ -1,5 +1,4 @@
 function solve() {
-
     var title = document.getElementById('createTitle').value;
     var text = document.getElementById('createContent').value;
 
