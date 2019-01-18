@@ -14,7 +14,7 @@ function solve() {
         article.appendChild(h3);
         article.appendChild(p);
 
-        //Append h3 and p to #articles
+        //Append <article> to #articles
         document.getElementById('articles').appendChild(article);
 
         //Clear title and textarea content
