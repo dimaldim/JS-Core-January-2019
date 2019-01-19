@@ -1,80 +1,84 @@
 @import url('https://fonts.googleapis.com/css?family=Lato');
 @import url('https://fonts.googleapis.com/css?family=PT+Sans');
-*{
+
+* {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
-html{
+
+html {
     font-family: "PT sans", sans-serif;
     font-size: 24px;
     color: #234465;
 }
-body{
+
+body {
     display: flex;
     flex-direction: column;
     margin: 0;
     min-height: 100vh;
     flex-wrap: wrap;
 }
-#main{   
+
+#main {
     background: url(images/background.png) no-repeat center center;
-    background-size: cover;  
+    height: 100vh;
 }
-#navigation{
+
+#navigation {
     background: #234465;
     display: inline-block;
     padding: 0.5rem;
+    width: 100%;
 }
-#navigation-text{
+
+#navigation-text {
     display: inline-block;
 }
-#lecture-name, #problem-name{
+
+#lecture-name,
+#problem-name {
     font-family: "Lato", sans-serif;
     color: white;
     font-weight: bold;
 }
-#lecture-name{    
-    font-size: 28px;    
-    margin-bottom: 0.8rem;    
+
+#lecture-name {
+    font-size: 28px;
+    margin-bottom: 0.8rem;
 }
-#problem-name{    
+
+#problem-name {
     font-size: 22px;
-    color: white;    
+    color: white;
 }
-#logo-img{
+
+#logo-img {
     width: 17%;
     float: right;
     padding: 0.5rem 0.5rem 0 0;
 }
-#softUni-person-img{
+
+#softUni-person-img {
     width: 30%;
     padding: 0;
-    float: left;    
 }
-#exercise{   
+
+#exercise {
     width: 70%;
     float: left;
     padding: 1rem 0 1rem 1rem;
 }
-main:after{
+
+main:after {
     display: block;
-    content:'';
+    content: '';
     clear: both;
 }
-#footer{
-    background: #234465;
-    padding: 0.5rem;
-    margin-top: auto;
-}
-#footer-text{
-    color: white;
-    text-align: center;
-}
-#check-judge{
-    color: #FD9F00;
-}
-input[type="button"], button{
+
+input[type="button"],
+button {
     padding: 0.3rem 0.5rem;
     font-size: 0.7em;
     margin: 1rem 0 1rem 0;
@@ -86,41 +90,58 @@ input[type="button"], button{
 }
 
 
-#chatChronology{
+#chatChronology {
     display: inline-block;
     width: 35%;
     border: 1px solid white;
-	margin-left: 1%;
-	margin-right: 1%;
+    margin-left: 1%;
+    margin-right: 1%;
 }
 
 
-input, button{
+input,
+button {
     vertical-align: top;
 }
 
-input{
+input {
     width: 20%;
     font-size: 20px;
 }
 
-#exercise{
+#exercise {
     margin: 0 auto;
     text-align: center;
 }
 
 
-#exercise p{
-    border-bottom:1px solid white;
+#exercise p {
+    border-bottom: 1px solid white;
     word-wrap: break-word;
 }
 
-#exercise span{
+#exercise span {
     font-size: 24px;
     color: #234465;
     font-weight: bold;
 }
 
-#exercise div{
+#exercise div {
     border-bottom: 1px solid #234465;
+}
+
+.cards {
+    width: 60%;
+    float: left;
+    padding: 3rem;
+}
+
+#result {
+    text-align: center;
+}
+
+#result:nth-child(2), #history {
+    font-size: 44px;
+    padding: 11px;
+    font-weight: bold;
 }
