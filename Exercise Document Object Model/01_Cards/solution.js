@@ -19,6 +19,7 @@ function solve() {
     let cardName = this.name;
     this.src = "images/whiteCard.jpg";
     playerOneSpan.innerText = cardName;
+    console.log(event).target;
     showResult();
   }
 
@@ -36,7 +37,14 @@ function solve() {
     ) {
       playerOneCard = Number(playerOneSpan.innerText);
       playerTwoCard = Number(playerTwoSpan.innerText);
-
+      console.log(this);
+      if (playerOneCard > playerTwoCard) {
+        playerOneSpan.style.border = "2px solid green";
+        playerTwoSpan.style.boder = "2px solid darkred";
+      } else {
+        playerTwoSpan.style.border = "2px solid green";
+        playerOneSpan.style.border = "2px solid darkred";
+      }
       history.push(playerOneCard + " vs " + playerTwoCard);
     }
     console.log(history);
