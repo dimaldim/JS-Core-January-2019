@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="452a6102-5f71-4499-a576-c7eadae3276a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab: Document Object Model/02_Format-the-Text/solution.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lab: Document Object Model/02_Format-the-Text/solution.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercise Document Object Model/01_Cards/solution.js" beforeDir="false" afterPath="$PROJECT_DIR$/Exercise Document Object Model/01_Cards/solution.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercise Document Object Model/04_Locked-Profile-Resources/solution.js" beforeDir="false" afterPath="$PROJECT_DIR$/Exercise Document Object Model/04_Locked-Profile-Resources/solution.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercise Document Object Model/06_Number-Convertor-Resources/solution.js" beforeDir="false" afterPath="$PROJECT_DIR$/Exercise Document Object Model/06_Number-Convertor-Resources/solution.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,21 +15,21 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Lab: Document Object Model/02_Format-the-Text/solution.js">
+        <entry file="file://$PROJECT_DIR$/Exercise Document Object Model/01_Cards/solution.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="44" selection-start-line="7" selection-start-column="44" selection-end-line="7" selection-end-column="44" />
+            <state relative-caret-position="446">
+              <caret line="37" column="119" selection-start-line="37" selection-start-column="119" selection-end-line="37" selection-end-column="119" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lab: Document Object Model/02_Format-the-Text/template.html">
+        <entry file="file://$PROJECT_DIR$/Exercise Document Object Model/01_Cards/template.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+            <state relative-caret-position="119">
+              <caret line="7" column="21" lean-forward="true" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -66,6 +69,10 @@
         <option value="$PROJECT_DIR$/Lab: Document Object Model/04_Register-Notification/solution.js" />
         <option value="$PROJECT_DIR$/Lab: Document Object Model/05_Visited-Sites/solution.js" />
         <option value="$PROJECT_DIR$/Lab: Document Object Model/02_Format-the-Text/solution.js" />
+        <option value="$PROJECT_DIR$/Exercise Document Object Model/06_Number-Convertor-Resources/solution.js" />
+        <option value="$PROJECT_DIR$/Exercise Document Object Model/04_Locked-Profile-Resources/solution.js" />
+        <option value="$PROJECT_DIR$/Exercise Document Object Model/01_Cards/template.html" />
+        <option value="$PROJECT_DIR$/Exercise Document Object Model/01_Cards/solution.js" />
       </list>
     </option>
   </component>
@@ -86,7 +93,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -97,18 +103,32 @@
             <path>
               <item name="JS-Core-January-2019" type="b2602c69:ProjectViewProjectNode" />
               <item name="JS-Core-January-2019" type="462c0819:PsiDirectoryNode" />
-              <item name="Lab: Document Object Model" type="462c0819:PsiDirectoryNode" />
+              <item name="Exercise Document Object Model" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JS-Core-January-2019" type="b2602c69:ProjectViewProjectNode" />
               <item name="JS-Core-January-2019" type="462c0819:PsiDirectoryNode" />
-              <item name="Lab: Document Object Model" type="462c0819:PsiDirectoryNode" />
-              <item name="02_Format-the-Text" type="462c0819:PsiDirectoryNode" />
+              <item name="Exercise Document Object Model" type="462c0819:PsiDirectoryNode" />
+              <item name="01_Cards" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JS-Core-January-2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JS-Core-January-2019" type="462c0819:PsiDirectoryNode" />
+              <item name="Exercise Document Object Model" type="462c0819:PsiDirectoryNode" />
+              <item name="01_Cards" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JS-Core-January-2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JS-Core-January-2019" type="462c0819:PsiDirectoryNode" />
+              <item name="Exercise Document Object Model" type="462c0819:PsiDirectoryNode" />
+              <item name="06_Number-Convertor-Resources" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -130,29 +150,29 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.template.html (1)">
+  <component name="RunManager" selected="JavaScript Debug.template.html (2)">
     <configuration name="template.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JS-Core-January-2019/Lab: Document Object Model/02_Format-the-Text/template.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="template.html (2)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JS-Core-January-2019/Exercise Document Object Model/01_Cards/template.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="template.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JS-Core-January-2019/Lab: Document Object Model/05_Visited-Sites/template.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="04.Fitness Rates.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Exercise: JavaScript Syntax and Operators/04.Fitness Rates.js" working-dir="$PROJECT_DIR$">
-      <method v="2" />
-    </configuration>
     <configuration name="10.Coffee Machine.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Exercise: JavaScript Syntax and Operators/10.Coffee Machine.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
-    <configuration name="solution.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Lab: Document Object Model/04_Register-Notification/solution.js" working-dir="$PROJECT_DIR$">
+    <configuration name="solution.js (1)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Exercise Document Object Model/06_Number-Convertor-Resources/solution.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.template.html (2)" />
+        <item itemvalue="Node.js.solution.js (1)" />
         <item itemvalue="JavaScript Debug.template.html (1)" />
         <item itemvalue="JavaScript Debug.template.html" />
         <item itemvalue="Node.js.10.Coffee Machine.js" />
-        <item itemvalue="Node.js.solution.js" />
-        <item itemvalue="Node.js.04.Fitness Rates.js" />
       </list>
     </recent_temporary>
   </component>
@@ -171,6 +191,7 @@
       <workItem from="1547622587599" duration="11431000" />
       <workItem from="1547653054067" duration="15000" />
       <workItem from="1547796413568" duration="14148000" />
+      <workItem from="1548099389818" duration="2072000" />
     </task>
     <task id="LOCAL-00001" summary="Upload">
       <created>1547576687679</created>
@@ -260,18 +281,19 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="28259000" />
+    <option name="totallyTimeSpent" value="30331000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="25" width="1440" height="875" extended-state="6" />
+    <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18983768" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19269341" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.3297587" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3994638" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39838493" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -299,216 +321,77 @@
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/Lab: Document Object Model/04_Register-Notification/solution.js</url>
           <line>4</line>
-          <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="4" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/Exercise: JavaScript Syntax and Operators/10.Coffee Machine.js</url>
           <line>18</line>
-          <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="javascript">
           <url>file://$PROJECT_DIR$/Exercise: JavaScript Syntax and Operators/10.Coffee Machine.js</url>
           <line>8</line>
-          <properties lambdaOrdinal="-1" />
           <option name="timeStamp" value="6" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Exercise: JavaScript Syntax and Operators/06.Same Numbers.js">
+    <entry file="file://$PROJECT_DIR$/Exercise: JavaScript Syntax and Operators/06.Same Numbers.js" />
+    <entry file="file://$PROJECT_DIR$/Exercise: JavaScript Syntax and Operators/07.Time to Walk.js" />
+    <entry file="file://$PROJECT_DIR$/Exercise: JavaScript Syntax and Operators/08.Flight Timetable.js" />
+    <entry file="file://$PROJECT_DIR$/Exercise: JavaScript Syntax and Operators/09.Calorie Object.js" />
+    <entry file="file://$PROJECT_DIR$/More Exercise: JavaScript Syntax and Operators/01.Daily Calorie Intake.js" />
+    <entry file="file://$PROJECT_DIR$/More Exercise: JavaScript Syntax and Operators/02.Common Numbers.js" />
+    <entry file="file://$PROJECT_DIR$/More Exercise: JavaScript Syntax and Operators/03.Humanized Number.js" />
+    <entry file="file://$PROJECT_DIR$/More Exercise: JavaScript Syntax and Operators/04.Perfect Number.js" />
+    <entry file="file://$PROJECT_DIR$/More Exercise: JavaScript Syntax and Operators/05.Converter to Coins.js" />
+    <entry file="file://$PROJECT_DIR$/Lab: Document Object Model/01_Articles-List/template.html" />
+    <entry file="file://$PROJECT_DIR$/Lab: Document Object Model/01_Articles-List/solution.js" />
+    <entry file="file://$PROJECT_DIR$/Lab: Document Object Model/02_Format-the-Text/template.css" />
+    <entry file="file://$PROJECT_DIR$/Lab: Document Object Model/03_Growing-Word/template.css" />
+    <entry file="file://$PROJECT_DIR$/Lab: Document Object Model/03_Growing-Word/template.html" />
+    <entry file="file://$PROJECT_DIR$/Lab: Document Object Model/03_Growing-Word/solution.js" />
+    <entry file="file://$PROJECT_DIR$/Lab: JavaScript Syntax and Operators/02.Math Operations.js" />
+    <entry file="file://$PROJECT_DIR$/Lab: JavaScript Syntax and Operators/04.Largest Number.js" />
+    <entry file="file://$PROJECT_DIR$/Lab: JavaScript Syntax and Operators/05.Circle Area.js" />
+    <entry file="file://$PROJECT_DIR$/Lab: JavaScript Syntax and Operators/01.String Length.js" />
+    <entry file="file://$PROJECT_DIR$/Exercise: JavaScript Syntax and Operators/04.Fitness Rates.js" />
+    <entry file="file://$PROJECT_DIR$/Exercise: JavaScript Syntax and Operators/01. I Like JavaScript!.js" />
+    <entry file="file://$PROJECT_DIR$/Lab: Document Object Model/04_Register-Notification/solution.js" />
+    <entry file="file://$PROJECT_DIR$/Exercise: JavaScript Syntax and Operators/05.Greatest Common Divisor – GCD.js" />
+    <entry file="file://$PROJECT_DIR$/Exercise: JavaScript Syntax and Operators/10.Coffee Machine.js" />
+    <entry file="file://$PROJECT_DIR$/Lab: Document Object Model/04_Register-Notification/template.html" />
+    <entry file="file://$PROJECT_DIR$/Lab: Document Object Model/05_Visited-Sites/template.css" />
+    <entry file="file://$PROJECT_DIR$/Lab: Document Object Model/05_Visited-Sites/template.html" />
+    <entry file="file://$PROJECT_DIR$/Lab: Document Object Model/05_Visited-Sites/solution.js" />
+    <entry file="file://$PROJECT_DIR$/Lab: Document Object Model/02_Format-the-Text/template.html" />
+    <entry file="file://$PROJECT_DIR$/Lab: Document Object Model/02_Format-the-Text/solution.js" />
+    <entry file="file://$PROJECT_DIR$/Exercise Document Object Model/04_Locked-Profile-Resources/solution.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        <state relative-caret-position="765">
+          <caret line="45" column="13" selection-start-line="45" selection-start-column="13" selection-end-line="45" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Exercise: JavaScript Syntax and Operators/07.Time to Walk.js">
+    <entry file="file://$PROJECT_DIR$/Exercise Document Object Model/06_Number-Convertor-Resources/solution.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="255">
+          <caret line="15" column="8" lean-forward="true" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Exercise: JavaScript Syntax and Operators/08.Flight Timetable.js">
+    <entry file="file://$PROJECT_DIR$/Exercise Document Object Model/01_Cards/template.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="5" selection-end-column="1" />
+        <state relative-caret-position="119">
+          <caret line="7" column="21" lean-forward="true" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Exercise: JavaScript Syntax and Operators/09.Calorie Object.js">
+    <entry file="file://$PROJECT_DIR$/Exercise Document Object Model/01_Cards/solution.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="15" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/More Exercise: JavaScript Syntax and Operators/01.Daily Calorie Intake.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="28" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/More Exercise: JavaScript Syntax and Operators/02.Common Numbers.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="43" selection-start-line="13" selection-start-column="43" selection-end-line="13" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/More Exercise: JavaScript Syntax and Operators/03.Humanized Number.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/More Exercise: JavaScript Syntax and Operators/04.Perfect Number.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="17" lean-forward="true" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/More Exercise: JavaScript Syntax and Operators/05.Converter to Coins.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="17" lean-forward="true" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lab: Document Object Model/01_Articles-List/template.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" column="37" selection-start-line="27" selection-start-column="29" selection-end-line="27" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lab: Document Object Model/01_Articles-List/solution.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lab: Document Object Model/02_Format-the-Text/template.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-896" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lab: Document Object Model/03_Growing-Word/template.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-900" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lab: Document Object Model/03_Growing-Word/template.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" column="37" selection-start-line="27" selection-start-column="37" selection-end-line="27" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lab: Document Object Model/03_Growing-Word/solution.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="42" lean-forward="true" selection-start-line="11" selection-start-column="42" selection-end-line="11" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lab: JavaScript Syntax and Operators/02.Math Operations.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="17" lean-forward="true" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lab: JavaScript Syntax and Operators/04.Largest Number.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lab: JavaScript Syntax and Operators/05.Circle Area.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lab: JavaScript Syntax and Operators/01.String Length.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Exercise: JavaScript Syntax and Operators/04.Fitness Rates.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="81">
-          <caret line="6" column="24" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Exercise: JavaScript Syntax and Operators/01. I Like JavaScript!.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lab: Document Object Model/04_Register-Notification/solution.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="7" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Exercise: JavaScript Syntax and Operators/05.Greatest Common Divisor – GCD.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Exercise: JavaScript Syntax and Operators/10.Coffee Machine.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="15" selection-start-line="8" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lab: Document Object Model/04_Register-Notification/template.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="24" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lab: Document Object Model/05_Visited-Sites/template.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="9" lean-forward="true" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lab: Document Object Model/05_Visited-Sites/template.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="18" column="20" lean-forward="true" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lab: Document Object Model/05_Visited-Sites/solution.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lab: Document Object Model/02_Format-the-Text/template.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Lab: Document Object Model/02_Format-the-Text/solution.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="44" selection-start-line="7" selection-start-column="44" selection-end-line="7" selection-end-column="44" />
+        <state relative-caret-position="446">
+          <caret line="37" column="119" selection-start-line="37" selection-start-column="119" selection-end-line="37" selection-end-column="119" />
         </state>
       </provider>
     </entry>
