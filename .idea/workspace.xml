@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="452a6102-5f71-4499-a576-c7eadae3276a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercise Document Object Model/01_Cards/solution.js" beforeDir="false" afterPath="$PROJECT_DIR$/Exercise Document Object Model/01_Cards/solution.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercise Document Object Model/04_Locked-Profile-Resources/solution.js" beforeDir="false" afterPath="$PROJECT_DIR$/Exercise Document Object Model/04_Locked-Profile-Resources/solution.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercise Document Object Model/06_Number-Convertor-Resources/solution.js" beforeDir="false" afterPath="$PROJECT_DIR$/Exercise Document Object Model/06_Number-Convertor-Resources/solution.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercise Document Object Model/07_SoftUni-Quizz-Resources/solution.js" beforeDir="false" afterPath="$PROJECT_DIR$/Exercise Document Object Model/07_SoftUni-Quizz-Resources/solution.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercise Document Object Model/08_Table-Search-Engine-Resources/solution.js" beforeDir="false" afterPath="$PROJECT_DIR$/Exercise Document Object Model/08_Table-Search-Engine-Resources/solution.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercise Document Object Model/09_Toto-Numbers-Resources/solution.js" beforeDir="false" afterPath="$PROJECT_DIR$/Exercise Document Object Model/09_Toto-Numbers-Resources/solution.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,19 +16,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Exercise Document Object Model/01_Cards/solution.js">
+        <entry file="file://$PROJECT_DIR$/Exercise Document Object Model/09_Toto-Numbers-Resources/solution.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="446">
-              <caret line="37" column="119" selection-start-line="37" selection-start-column="119" selection-end-line="37" selection-end-column="119" />
+            <state relative-caret-position="323">
+              <caret line="19" column="53" selection-start-line="19" selection-start-column="53" selection-end-line="19" selection-end-column="53" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Exercise Document Object Model/01_Cards/template.html">
+        <entry file="file://$PROJECT_DIR$/Exercise Document Object Model/09_Toto-Numbers-Resources/template.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="21" lean-forward="true" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+            <state relative-caret-position="425">
+              <caret line="25" column="31" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -42,6 +41,13 @@
         <option value="JavaScript File" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>#text</find>
+      <find>select</find>
+      <find>input</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -73,6 +79,9 @@
         <option value="$PROJECT_DIR$/Exercise Document Object Model/04_Locked-Profile-Resources/solution.js" />
         <option value="$PROJECT_DIR$/Exercise Document Object Model/01_Cards/template.html" />
         <option value="$PROJECT_DIR$/Exercise Document Object Model/01_Cards/solution.js" />
+        <option value="$PROJECT_DIR$/Exercise Document Object Model/07_SoftUni-Quizz-Resources/solution.js" />
+        <option value="$PROJECT_DIR$/Exercise Document Object Model/08_Table-Search-Engine-Resources/solution.js" />
+        <option value="$PROJECT_DIR$/Exercise Document Object Model/09_Toto-Numbers-Resources/solution.js" />
       </list>
     </option>
   </component>
@@ -115,14 +124,13 @@
               <item name="JS-Core-January-2019" type="b2602c69:ProjectViewProjectNode" />
               <item name="JS-Core-January-2019" type="462c0819:PsiDirectoryNode" />
               <item name="Exercise Document Object Model" type="462c0819:PsiDirectoryNode" />
-              <item name="01_Cards" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
+              <item name="08_Table-Search-Engine-Resources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JS-Core-January-2019" type="b2602c69:ProjectViewProjectNode" />
               <item name="JS-Core-January-2019" type="462c0819:PsiDirectoryNode" />
               <item name="Exercise Document Object Model" type="462c0819:PsiDirectoryNode" />
-              <item name="06_Number-Convertor-Resources" type="462c0819:PsiDirectoryNode" />
+              <item name="09_Toto-Numbers-Resources" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -136,7 +144,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="reference.idesettings.emmet" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -150,17 +158,17 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.template.html (2)">
-    <configuration name="template.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JS-Core-January-2019/Lab: Document Object Model/02_Format-the-Text/template.html" useBuiltInWebServerPort="true">
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="JavaScript Debug.template.html">
     <configuration name="template.html (2)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JS-Core-January-2019/Exercise Document Object Model/01_Cards/template.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="template.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JS-Core-January-2019/Lab: Document Object Model/05_Visited-Sites/template.html" useBuiltInWebServerPort="true">
+    <configuration name="template.html (3)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JS-Core-January-2019/Exercise Document Object Model/07_SoftUni-Quizz-Resources/template.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="10.Coffee Machine.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Exercise: JavaScript Syntax and Operators/10.Coffee Machine.js" working-dir="$PROJECT_DIR$">
+    <configuration name="template.html (4)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JS-Core-January-2019/Exercise Document Object Model/08_Table-Search-Engine-Resources/template.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="template.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JS-Core-January-2019/Exercise Document Object Model/09_Toto-Numbers-Resources/template.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="solution.js (1)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Exercise Document Object Model/06_Number-Convertor-Resources/solution.js" working-dir="$PROJECT_DIR$">
@@ -168,11 +176,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.template.html" />
+        <item itemvalue="JavaScript Debug.template.html (4)" />
+        <item itemvalue="JavaScript Debug.template.html (3)" />
         <item itemvalue="JavaScript Debug.template.html (2)" />
         <item itemvalue="Node.js.solution.js (1)" />
-        <item itemvalue="JavaScript Debug.template.html (1)" />
-        <item itemvalue="JavaScript Debug.template.html" />
-        <item itemvalue="Node.js.10.Coffee Machine.js" />
       </list>
     </recent_temporary>
   </component>
@@ -192,6 +200,7 @@
       <workItem from="1547653054067" duration="15000" />
       <workItem from="1547796413568" duration="14148000" />
       <workItem from="1548099389818" duration="2072000" />
+      <workItem from="1548151012254" duration="7291000" />
     </task>
     <task id="LOCAL-00001" summary="Upload">
       <created>1547576687679</created>
@@ -281,13 +290,13 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30331000" />
+    <option name="totallyTimeSpent" value="37622000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
+    <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19269341" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16442543" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -384,14 +393,63 @@
     <entry file="file://$PROJECT_DIR$/Exercise Document Object Model/01_Cards/template.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
-          <caret line="7" column="21" lean-forward="true" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+          <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Exercise Document Object Model/01_Cards/solution.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="446">
-          <caret line="37" column="119" selection-start-line="37" selection-start-column="119" selection-end-line="37" selection-end-column="119" />
+        <state relative-caret-position="255">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercise Document Object Model/07_SoftUni-Quizz-Resources/solution.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="782">
+          <caret line="46" column="1" selection-end-line="46" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercise Document Object Model/07_SoftUni-Quizz-Resources/template.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="46" column="48" selection-start-line="46" selection-start-column="34" selection-end-line="46" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercise Document Object Model/08_Table-Search-Engine-Resources/template.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="539">
+          <caret line="97" column="7" selection-start-line="97" selection-start-column="1" selection-end-line="97" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercise Document Object Model/08_Table-Search-Engine-Resources/solution.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="3" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercise Document Object Model/08_Table-Search-Engine-Resources/template.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="19" column="27" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercise Document Object Model/09_Toto-Numbers-Resources/template.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="31" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercise Document Object Model/09_Toto-Numbers-Resources/solution.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="53" selection-start-line="19" selection-start-column="53" selection-end-line="19" selection-end-column="53" />
         </state>
       </provider>
     </entry>
