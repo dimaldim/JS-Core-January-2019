@@ -3,9 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="452a6102-5f71-4499-a576-c7eadae3276a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercise Document Object Model/07_SoftUni-Quizz-Resources/solution.js" beforeDir="false" afterPath="$PROJECT_DIR$/Exercise Document Object Model/07_SoftUni-Quizz-Resources/solution.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercise Document Object Model/08_Table-Search-Engine-Resources/solution.js" beforeDir="false" afterPath="$PROJECT_DIR$/Exercise Document Object Model/08_Table-Search-Engine-Resources/solution.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercise Document Object Model/09_Toto-Numbers-Resources/solution.js" beforeDir="false" afterPath="$PROJECT_DIR$/Exercise Document Object Model/09_Toto-Numbers-Resources/solution.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercise Document Object Model/10_Virus-Installer-Resources/solution.js" beforeDir="false" afterPath="$PROJECT_DIR$/Exercise Document Object Model/10_Virus-Installer-Resources/solution.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/More Exercise Document Object Model/01_Numpad-Calculator/solution.js" beforeDir="false" afterPath="$PROJECT_DIR$/More Exercise Document Object Model/01_Numpad-Calculator/solution.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,19 +15,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Exercise Document Object Model/09_Toto-Numbers-Resources/solution.js">
+        <entry file="file://$PROJECT_DIR$/Lab Functions and Logic flow/01_Multiplication-Table/solution.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" column="53" selection-start-line="19" selection-start-column="53" selection-end-line="19" selection-end-column="53" />
+            <state relative-caret-position="221">
+              <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Exercise Document Object Model/09_Toto-Numbers-Resources/template.html">
+        <entry file="file://$PROJECT_DIR$/Lab Functions and Logic flow/01_Multiplication-Table/template.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="25" column="31" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="31" />
+            <state relative-caret-position="272">
+              <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -47,6 +46,9 @@
       <find>#text</find>
       <find>select</find>
       <find>input</find>
+      <find>firstS</find>
+      <find>button</find>
+      <find>section</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -82,6 +84,9 @@
         <option value="$PROJECT_DIR$/Exercise Document Object Model/07_SoftUni-Quizz-Resources/solution.js" />
         <option value="$PROJECT_DIR$/Exercise Document Object Model/08_Table-Search-Engine-Resources/solution.js" />
         <option value="$PROJECT_DIR$/Exercise Document Object Model/09_Toto-Numbers-Resources/solution.js" />
+        <option value="$PROJECT_DIR$/Exercise Document Object Model/10_Virus-Installer-Resources/solution.js" />
+        <option value="$PROJECT_DIR$/More Exercise Document Object Model/01_Numpad-Calculator/solution.js" />
+        <option value="$PROJECT_DIR$/Lab Functions and Logic flow/01_Multiplication-Table/solution.js" />
       </list>
     </option>
   </component>
@@ -112,25 +117,13 @@
             <path>
               <item name="JS-Core-January-2019" type="b2602c69:ProjectViewProjectNode" />
               <item name="JS-Core-January-2019" type="462c0819:PsiDirectoryNode" />
-              <item name="Exercise Document Object Model" type="462c0819:PsiDirectoryNode" />
+              <item name="Lab Functions and Logic flow" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JS-Core-January-2019" type="b2602c69:ProjectViewProjectNode" />
               <item name="JS-Core-January-2019" type="462c0819:PsiDirectoryNode" />
-              <item name="Exercise Document Object Model" type="462c0819:PsiDirectoryNode" />
-              <item name="01_Cards" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JS-Core-January-2019" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JS-Core-January-2019" type="462c0819:PsiDirectoryNode" />
-              <item name="Exercise Document Object Model" type="462c0819:PsiDirectoryNode" />
-              <item name="08_Table-Search-Engine-Resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JS-Core-January-2019" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JS-Core-January-2019" type="462c0819:PsiDirectoryNode" />
-              <item name="Exercise Document Object Model" type="462c0819:PsiDirectoryNode" />
-              <item name="09_Toto-Numbers-Resources" type="462c0819:PsiDirectoryNode" />
+              <item name="Lab Functions and Logic flow" type="462c0819:PsiDirectoryNode" />
+              <item name="01_Multiplication-Table" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -144,7 +137,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="editing.templates" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -158,29 +151,29 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.template.html">
-    <configuration name="template.html (2)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JS-Core-January-2019/Exercise Document Object Model/01_Cards/template.html" useBuiltInWebServerPort="true">
+  <component name="RunManager" selected="JavaScript Debug.template.html (2)">
+    <configuration name="template.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JS-Core-January-2019/Exercise Document Object Model/10_Virus-Installer-Resources/template.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="template.html (3)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JS-Core-January-2019/Exercise Document Object Model/07_SoftUni-Quizz-Resources/template.html" useBuiltInWebServerPort="true">
+    <configuration name="template.html (2)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JS-Core-January-2019/Lab Functions and Logic flow/01_Multiplication-Table/template.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="template.html (4)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JS-Core-January-2019/Exercise Document Object Model/08_Table-Search-Engine-Resources/template.html" useBuiltInWebServerPort="true">
+    <configuration name="template.html (5)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JS-Core-January-2019/More Exercise Document Object Model/01_Numpad-Calculator/template.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="template.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JS-Core-January-2019/Exercise Document Object Model/09_Toto-Numbers-Resources/template.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="solution.js (1)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Exercise Document Object Model/06_Number-Convertor-Resources/solution.js" working-dir="$PROJECT_DIR$">
+    <configuration name="solution.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/More Exercise Document Object Model/01_Numpad-Calculator/solution.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JavaScript Debug.template.html" />
-        <item itemvalue="JavaScript Debug.template.html (4)" />
-        <item itemvalue="JavaScript Debug.template.html (3)" />
         <item itemvalue="JavaScript Debug.template.html (2)" />
-        <item itemvalue="Node.js.solution.js (1)" />
+        <item itemvalue="JavaScript Debug.template.html (5)" />
+        <item itemvalue="Node.js.solution.js" />
+        <item itemvalue="JavaScript Debug.template.html (1)" />
+        <item itemvalue="JavaScript Debug.template.html" />
       </list>
     </recent_temporary>
   </component>
@@ -200,7 +193,9 @@
       <workItem from="1547653054067" duration="15000" />
       <workItem from="1547796413568" duration="14148000" />
       <workItem from="1548099389818" duration="2072000" />
-      <workItem from="1548151012254" duration="7291000" />
+      <workItem from="1548151012254" duration="11729000" />
+      <workItem from="1548178563744" duration="1578000" />
+      <workItem from="1548226119514" duration="1056000" />
     </task>
     <task id="LOCAL-00001" summary="Upload">
       <created>1547576687679</created>
@@ -286,22 +281,29 @@
       <option name="project" value="LOCAL" />
       <updated>1547824884119</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Upload">
+      <created>1548167498615</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1548167498615</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37622000" />
+    <option name="totallyTimeSpent" value="44694000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16442543" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16870415" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3297587" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32974428" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39838493" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -376,13 +378,6 @@
     <entry file="file://$PROJECT_DIR$/Lab: Document Object Model/05_Visited-Sites/solution.js" />
     <entry file="file://$PROJECT_DIR$/Lab: Document Object Model/02_Format-the-Text/template.html" />
     <entry file="file://$PROJECT_DIR$/Lab: Document Object Model/02_Format-the-Text/solution.js" />
-    <entry file="file://$PROJECT_DIR$/Exercise Document Object Model/04_Locked-Profile-Resources/solution.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="765">
-          <caret line="45" column="13" selection-start-line="45" selection-start-column="13" selection-end-line="45" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Exercise Document Object Model/06_Number-Convertor-Resources/solution.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -439,6 +434,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Exercise Document Object Model/09_Toto-Numbers-Resources/solution.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="12" selection-start-line="24" selection-start-column="12" selection-end-line="24" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Exercise Document Object Model/09_Toto-Numbers-Resources/template.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="425">
@@ -446,10 +448,66 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Exercise Document Object Model/09_Toto-Numbers-Resources/solution.js">
+    <entry file="file://$PROJECT_DIR$/Exercise Document Object Model/10_Virus-Installer-Resources/template.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="607">
+          <caret line="119" column="7" selection-start-line="119" selection-start-column="1" selection-end-line="119" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercise Document Object Model/10_Virus-Installer-Resources/template.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="474">
+          <caret line="43" column="13" selection-start-line="43" selection-start-column="6" selection-end-line="43" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercise Document Object Model/10_Virus-Installer-Resources/solution.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="454">
+          <caret line="31" column="27" lean-forward="true" selection-start-line="31" selection-start-column="27" selection-end-line="31" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.dom.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="10508" column="4" selection-start-line="10508" selection-start-column="4" selection-end-line="10508" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercise Document Object Model/04_Locked-Profile-Resources/solution.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/More Exercise Document Object Model/01_Numpad-Calculator/solution.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/More Exercise Document Object Model/01_Numpad-Calculator/template.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
-          <caret line="19" column="53" selection-start-line="19" selection-start-column="53" selection-end-line="19" selection-end-column="53" />
+          <caret line="19" column="31" selection-start-line="19" selection-start-column="31" selection-end-line="19" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab Functions and Logic flow/01_Multiplication-Table/template.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab Functions and Logic flow/01_Multiplication-Table/solution.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
         </state>
       </provider>
     </entry>
