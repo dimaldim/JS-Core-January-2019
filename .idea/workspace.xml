@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="452a6102-5f71-4499-a576-c7eadae3276a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercise Functions and Logic Flow/03_Date-Validator/solution.js" beforeDir="false" afterPath="$PROJECT_DIR$/Exercise Functions and Logic Flow/03_Date-Validator/solution.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercise Functions and Logic Flow/04_EGN-Validator/solution.js" beforeDir="false" afterPath="$PROJECT_DIR$/Exercise Functions and Logic Flow/04_EGN-Validator/solution.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercise Functions and Logic Flow/05_Cooking-Numbers/solution.js" beforeDir="false" afterPath="$PROJECT_DIR$/Exercise Functions and Logic Flow/05_Cooking-Numbers/solution.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,19 +14,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Exercise Functions and Logic Flow/04_EGN-Validator/solution.js">
+        <entry file="file://$PROJECT_DIR$/Exercise Functions and Logic Flow/05_Cooking-Numbers/solution.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="281">
-              <caret line="18" column="16" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
+            <state>
+              <caret column="1" lean-forward="true" selection-start-column="1" selection-end-line="63" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Exercise Functions and Logic Flow/04_EGN-Validator/template.html">
+        <entry file="file://$PROJECT_DIR$/Exercise Functions and Logic Flow/05_Cooking-Numbers/template.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="760">
-              <caret line="79" column="30" selection-start-line="79" selection-start-column="27" selection-end-line="79" selection-end-column="30" />
+            <state relative-caret-position="459">
+              <caret line="27" column="33" selection-start-line="27" selection-start-column="27" selection-end-line="27" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -96,6 +95,7 @@
         <option value="$PROJECT_DIR$/Exercise Functions and Logic Flow/03_Date-Validator/solution.js" />
         <option value="$PROJECT_DIR$/Exercise Functions and Logic Flow/04_EGN-Validator/template.html" />
         <option value="$PROJECT_DIR$/Exercise Functions and Logic Flow/04_EGN-Validator/solution.js" />
+        <option value="$PROJECT_DIR$/Exercise Functions and Logic Flow/05_Cooking-Numbers/solution.js" />
       </list>
     </option>
   </component>
@@ -132,13 +132,7 @@
               <item name="JS-Core-January-2019" type="b2602c69:ProjectViewProjectNode" />
               <item name="JS-Core-January-2019" type="462c0819:PsiDirectoryNode" />
               <item name="Exercise Functions and Logic Flow" type="462c0819:PsiDirectoryNode" />
-              <item name="02_Simple-Number-Validator" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JS-Core-January-2019" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JS-Core-January-2019" type="462c0819:PsiDirectoryNode" />
-              <item name="Exercise Functions and Logic Flow" type="462c0819:PsiDirectoryNode" />
-              <item name="04_EGN-Validator" type="462c0819:PsiDirectoryNode" />
+              <item name="05_Cooking-Numbers" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -166,14 +160,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.template.html">
+  <component name="RunManager" selected="JavaScript Debug.template.html (1)">
+    <configuration name="template.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JS-Core-January-2019/Exercise Functions and Logic Flow/05_Cooking-Numbers/template.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
     <configuration name="template.html (2)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JS-Core-January-2019/Exercise Functions and Logic Flow/02_Simple-Number-Validator/template.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="template.html (3)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JS-Core-January-2019/Exercise Functions and Logic Flow/03_Date-Validator/template.html" useBuiltInWebServerPort="true">
-      <method v="2" />
-    </configuration>
-    <configuration name="template.html (4)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JS-Core-January-2019/Lab Functions and Logic flow/05_Special-Words/template.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="template.html (5)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JS-Core-January-2019/Exercise Functions and Logic Flow/01_Leap-Year/template.html" useBuiltInWebServerPort="true">
@@ -184,11 +178,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.template.html (1)" />
         <item itemvalue="JavaScript Debug.template.html" />
         <item itemvalue="JavaScript Debug.template.html (3)" />
         <item itemvalue="JavaScript Debug.template.html (2)" />
         <item itemvalue="JavaScript Debug.template.html (5)" />
-        <item itemvalue="JavaScript Debug.template.html (4)" />
       </list>
     </recent_temporary>
   </component>
@@ -210,7 +204,7 @@
       <workItem from="1548099389818" duration="2072000" />
       <workItem from="1548151012254" duration="11729000" />
       <workItem from="1548178563744" duration="1578000" />
-      <workItem from="1548226119514" duration="17174000" />
+      <workItem from="1548226119514" duration="18773000" />
     </task>
     <task id="LOCAL-00001" summary="Upload">
       <created>1547576687679</created>
@@ -352,11 +346,18 @@
       <option name="project" value="LOCAL" />
       <updated>1548232464456</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="Upload">
+      <created>1548247864861</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1548247864861</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="60812000" />
+    <option name="totallyTimeSpent" value="62411000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
@@ -412,8 +413,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Lab: Document Object Model/03_Growing-Word/solution.js" />
-    <entry file="file://$PROJECT_DIR$/Lab: JavaScript Syntax and Operators/02.Math Operations.js" />
     <entry file="file://$PROJECT_DIR$/Lab: JavaScript Syntax and Operators/04.Largest Number.js" />
     <entry file="file://$PROJECT_DIR$/Lab: JavaScript Syntax and Operators/05.Circle Area.js" />
     <entry file="file://$PROJECT_DIR$/Lab: JavaScript Syntax and Operators/01.String Length.js" />
@@ -659,6 +658,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Exercise Functions and Logic Flow/04_EGN-Validator/solution.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="281">
+          <caret line="18" column="16" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Exercise Functions and Logic Flow/04_EGN-Validator/template.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="760">
@@ -666,10 +672,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Exercise Functions and Logic Flow/04_EGN-Validator/solution.js">
+    <entry file="file://$PROJECT_DIR$/Exercise Functions and Logic Flow/05_Cooking-Numbers/template.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="281">
-          <caret line="18" column="16" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
+        <state relative-caret-position="459">
+          <caret line="27" column="33" selection-start-line="27" selection-start-column="27" selection-end-line="27" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercise Functions and Logic Flow/05_Cooking-Numbers/solution.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="1" lean-forward="true" selection-start-column="1" selection-end-line="63" selection-end-column="1" />
         </state>
       </provider>
     </entry>
