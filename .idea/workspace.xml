@@ -2,94 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="452a6102-5f71-4499-a576-c7eadae3276a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Exercise Functions and Logic Flow/01_Leap-Year/images/SoftUniFoundation_Logo_OneLine_White@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise Functions and Logic Flow/01_Leap-Year/images/background.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise Functions and Logic Flow/01_Leap-Year/images/cw_2_New_Logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise Functions and Logic Flow/01_Leap-Year/solution.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise Functions and Logic Flow/01_Leap-Year/template.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise Functions and Logic Flow/01_Leap-Year/template.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise Functions and Logic Flow/02_Simple-Number-Validator/images/SoftUniFoundation_Logo_OneLine_White@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise Functions and Logic Flow/02_Simple-Number-Validator/images/background.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise Functions and Logic Flow/02_Simple-Number-Validator/images/cw_2_New_Logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise Functions and Logic Flow/02_Simple-Number-Validator/solution.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise Functions and Logic Flow/02_Simple-Number-Validator/template.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise Functions and Logic Flow/02_Simple-Number-Validator/template.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise Functions and Logic Flow/03_Date-Validator/images/SoftUniFoundation_Logo_OneLine_White@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise Functions and Logic Flow/03_Date-Validator/images/background.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise Functions and Logic Flow/03_Date-Validator/images/cw_2_New_Logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise Functions and Logic Flow/03_Date-Validator/solution.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise Functions and Logic Flow/03_Date-Validator/template.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise Functions and Logic Flow/03_Date-Validator/template.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise Functions and Logic Flow/04_EGN-Validator/images/SoftUniFoundation_Logo_OneLine_White@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise Functions and Logic Flow/04_EGN-Validator/images/background.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise Functions and Logic Flow/04_EGN-Validator/images/cw_2_New_Logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise Functions and Logic Flow/04_EGN-Validator/solution.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise Functions and Logic Flow/04_EGN-Validator/template.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise Functions and Logic Flow/04_EGN-Validator/template.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise Functions and Logic Flow/05_Cooking-Numbers/images/SoftUniFoundation_Logo_OneLine_White@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise Functions and Logic Flow/05_Cooking-Numbers/images/background.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise Functions and Logic Flow/05_Cooking-Numbers/images/cw_2_New_Logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise Functions and Logic Flow/05_Cooking-Numbers/solution.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise Functions and Logic Flow/05_Cooking-Numbers/template.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise Functions and Logic Flow/05_Cooking-Numbers/template.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise Functions and Logic Flow/06_Cards-Generator/images/SoftUniFoundation_Logo_OneLine_White@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise Functions and Logic Flow/06_Cards-Generator/images/background.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise Functions and Logic Flow/06_Cards-Generator/images/cw_2_New_Logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise Functions and Logic Flow/06_Cards-Generator/solution.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise Functions and Logic Flow/06_Cards-Generator/template.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise Functions and Logic Flow/06_Cards-Generator/template.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise Functions and Logic Flow/07_Greatest-Common-Divisor/.idea/07_Greatest-Common-Divisor.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise Functions and Logic Flow/07_Greatest-Common-Divisor/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise Functions and Logic Flow/07_Greatest-Common-Divisor/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise Functions and Logic Flow/07_Greatest-Common-Divisor/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise Functions and Logic Flow/07_Greatest-Common-Divisor/images/background.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise Functions and Logic Flow/07_Greatest-Common-Divisor/images/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise Functions and Logic Flow/07_Greatest-Common-Divisor/images/wizard.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise Functions and Logic Flow/07_Greatest-Common-Divisor/solution.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise Functions and Logic Flow/07_Greatest-Common-Divisor/template.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise Functions and Logic Flow/07_Greatest-Common-Divisor/template.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise Functions and Logic Flow/08_Binary-Search/.idea/08_Binary-Search.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise Functions and Logic Flow/08_Binary-Search/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise Functions and Logic Flow/08_Binary-Search/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise Functions and Logic Flow/08_Binary-Search/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise Functions and Logic Flow/08_Binary-Search/images/background.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise Functions and Logic Flow/08_Binary-Search/images/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise Functions and Logic Flow/08_Binary-Search/images/wizard.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise Functions and Logic Flow/08_Binary-Search/solution.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise Functions and Logic Flow/08_Binary-Search/template.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise Functions and Logic Flow/08_Binary-Search/template.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise Functions and Logic Flow/09_Hailstone-Sequence/.idea/09_Hailstone-Sequence.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise Functions and Logic Flow/09_Hailstone-Sequence/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise Functions and Logic Flow/09_Hailstone-Sequence/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise Functions and Logic Flow/09_Hailstone-Sequence/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise Functions and Logic Flow/09_Hailstone-Sequence/images/background.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise Functions and Logic Flow/09_Hailstone-Sequence/images/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise Functions and Logic Flow/09_Hailstone-Sequence/images/wizard.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise Functions and Logic Flow/09_Hailstone-Sequence/solution.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise Functions and Logic Flow/09_Hailstone-Sequence/template.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise Functions and Logic Flow/09_Hailstone-Sequence/template.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise Functions and Logic Flow/10_Dot-Product/.idea/10_Dot-Product.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise Functions and Logic Flow/10_Dot-Product/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise Functions and Logic Flow/10_Dot-Product/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise Functions and Logic Flow/10_Dot-Product/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise Functions and Logic Flow/10_Dot-Product/images/background.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise Functions and Logic Flow/10_Dot-Product/images/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise Functions and Logic Flow/10_Dot-Product/images/wizard.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise Functions and Logic Flow/10_Dot-Product/solution.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise Functions and Logic Flow/10_Dot-Product/template.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise Functions and Logic Flow/10_Dot-Product/template.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise Functions and Logic Flow/11_Factors/.idea/11_Factors.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise Functions and Logic Flow/11_Factors/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise Functions and Logic Flow/11_Factors/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise Functions and Logic Flow/11_Factors/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise Functions and Logic Flow/11_Factors/images/background.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise Functions and Logic Flow/11_Factors/images/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise Functions and Logic Flow/11_Factors/images/wizard.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise Functions and Logic Flow/11_Factors/solution.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise Functions and Logic Flow/11_Factors/template.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise Functions and Logic Flow/11_Factors/template.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab Functions and Logic flow/05_Special-Words/solution.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lab Functions and Logic flow/05_Special-Words/solution.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercise Functions and Logic Flow/02_Simple-Number-Validator/solution.js" beforeDir="false" afterPath="$PROJECT_DIR$/Exercise Functions and Logic Flow/02_Simple-Number-Validator/solution.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -99,16 +13,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Exercise Functions and Logic Flow/01_Leap-Year/solution.js">
-          <provider selected="true" editor-type-id="text-editor" />
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Exercise Functions and Logic Flow/02_Simple-Number-Validator/solution.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="21" column="38" selection-start-line="21" selection-start-column="38" selection-end-line="21" selection-end-column="38" />
+            </state>
+          </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Exercise Functions and Logic Flow/01_Leap-Year/template.html">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Exercise Functions and Logic Flow/02_Simple-Number-Validator/template.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="12" lean-forward="true" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+            <state relative-caret-position="442">
+              <caret line="26" column="46" selection-start-line="26" selection-start-column="38" selection-end-line="26" selection-end-column="46" />
             </state>
           </provider>
         </entry>
@@ -172,6 +90,8 @@
         <option value="$PROJECT_DIR$/Lab Functions and Logic flow/03_Count-Occurrences-of-a-Given-Character/solution.js" />
         <option value="$PROJECT_DIR$/Lab Functions and Logic flow/04_Unique-Characters/solution.js" />
         <option value="$PROJECT_DIR$/Lab Functions and Logic flow/05_Special-Words/solution.js" />
+        <option value="$PROJECT_DIR$/Exercise Functions and Logic Flow/01_Leap-Year/solution.js" />
+        <option value="$PROJECT_DIR$/Exercise Functions and Logic Flow/02_Simple-Number-Validator/solution.js" />
       </list>
     </option>
   </component>
@@ -210,6 +130,12 @@
               <item name="Exercise Functions and Logic Flow" type="462c0819:PsiDirectoryNode" />
               <item name="01_Leap-Year" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="JS-Core-January-2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JS-Core-January-2019" type="462c0819:PsiDirectoryNode" />
+              <item name="Exercise Functions and Logic Flow" type="462c0819:PsiDirectoryNode" />
+              <item name="02_Simple-Number-Validator" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -236,17 +162,17 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.template.html (4)">
+  <component name="RunManager" selected="JavaScript Debug.template.html (2)">
     <configuration name="template.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JS-Core-January-2019/Lab Functions and Logic flow/04_Unique-Characters/template.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="template.html (2)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JS-Core-January-2019/Lab Functions and Logic flow/01_Multiplication-Table/template.html" useBuiltInWebServerPort="true">
-      <method v="2" />
-    </configuration>
-    <configuration name="template.html (3)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JS-Core-January-2019/Lab Functions and Logic flow/02_Temperature-Converter/template.html" useBuiltInWebServerPort="true">
+    <configuration name="template.html (2)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JS-Core-January-2019/Exercise Functions and Logic Flow/02_Simple-Number-Validator/template.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="template.html (4)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JS-Core-January-2019/Lab Functions and Logic flow/05_Special-Words/template.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="template.html (5)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JS-Core-January-2019/Exercise Functions and Logic Flow/01_Leap-Year/template.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="template.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JS-Core-January-2019/Lab Functions and Logic flow/03_Count-Occurrences-of-a-Given-Character/template.html" useBuiltInWebServerPort="true">
@@ -254,11 +180,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.template.html (2)" />
+        <item itemvalue="JavaScript Debug.template.html (5)" />
         <item itemvalue="JavaScript Debug.template.html (4)" />
         <item itemvalue="JavaScript Debug.template.html (1)" />
         <item itemvalue="JavaScript Debug.template.html" />
-        <item itemvalue="JavaScript Debug.template.html (3)" />
-        <item itemvalue="JavaScript Debug.template.html (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -280,7 +206,7 @@
       <workItem from="1548099389818" duration="2072000" />
       <workItem from="1548151012254" duration="11729000" />
       <workItem from="1548178563744" duration="1578000" />
-      <workItem from="1548226119514" duration="3325000" />
+      <workItem from="1548226119514" duration="6169000" />
     </task>
     <task id="LOCAL-00001" summary="Upload">
       <created>1547576687679</created>
@@ -394,11 +320,25 @@
       <option name="project" value="LOCAL" />
       <updated>1548228416244</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Upload">
+      <created>1548229499121</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1548229499121</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Upload">
+      <created>1548230655500</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1548230655500</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="46963000" />
+    <option name="totallyTimeSpent" value="49807000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
@@ -454,8 +394,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/More Exercise: JavaScript Syntax and Operators/05.Converter to Coins.js" />
-    <entry file="file://$PROJECT_DIR$/Lab: Document Object Model/01_Articles-List/template.html" />
     <entry file="file://$PROJECT_DIR$/Lab: Document Object Model/01_Articles-List/solution.js" />
     <entry file="file://$PROJECT_DIR$/Lab: Document Object Model/02_Format-the-Text/template.css" />
     <entry file="file://$PROJECT_DIR$/Lab: Document Object Model/03_Growing-Word/template.css" />
@@ -666,12 +604,30 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Exercise Functions and Logic Flow/01_Leap-Year/solution.js">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="9" lean-forward="true" selection-start-line="15" selection-start-column="9" selection-end-line="15" selection-end-column="9" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Exercise Functions and Logic Flow/01_Leap-Year/template.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="12" lean-forward="true" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+        <state relative-caret-position="374">
+          <caret line="22" column="23" selection-start-line="22" selection-start-column="23" selection-end-line="22" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercise Functions and Logic Flow/02_Simple-Number-Validator/template.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="46" selection-start-line="26" selection-start-column="38" selection-end-line="26" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercise Functions and Logic Flow/02_Simple-Number-Validator/solution.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="38" selection-start-line="21" selection-start-column="38" selection-end-line="21" selection-end-column="38" />
         </state>
       </provider>
     </entry>
