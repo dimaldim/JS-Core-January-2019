@@ -6,19 +6,15 @@
 
     function checkNumber() {
         let number = document.getElementsByTagName('input')[0];
-        let lastDigit = function () {
-            return Number(number.value) % 10;
-        };
-        let weightNums = function () {
+        let lastDigit = () => Number(number.value) % 10;
+        let weightNums = () => {
             let sum = 0;
             for (let i = 0; i < number.value.length - 1; i++) {
                 sum += Number(number.value[i]) * weightPosition[i];
             }
             return sum;
         };
-        let sumNums = function () {
-            return weightNums() % 11 === 10 ? 0 : weightNums() % 11;
-        };
+        let sumNums = () => weightNums() % 11 === 10 ? 0 : weightNums() % 11;
 
         if (lastDigit() === sumNums()) {
             document.getElementById('response').textContent = 'This number is Valid!';
