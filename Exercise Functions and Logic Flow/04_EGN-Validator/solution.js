@@ -24,42 +24,31 @@
             return months[document.getElementById('month').value];
         };
         var getDay = () => ('0' + (document.getElementById('date').value)).slice(-2);
-        var getGender = () => {
-            return document.getElementById('male').checked ? 1 :
-                ((document.getElementById('female').checked) ? (2) : undefined);
-        };
-        var getRegion = () => ('0' + (document.getElementById('region').value)).slice(-3);
+        var getGender = () => document.getElementById('male').checked ? 2 : 1;
+        var getRegion = () => document.getElementById('region').value;
 
-        var regionAndGender = (region, gender) => {
-            region = region.slice(0, 2);
-            for (let i = 1; i <= 9; i++) {
-                if (gender === 1 && i % 2 === 0) {
-                    return region + i;
-                } else if (gender === 2 && i % 2 !== 0) {
-                    return region + i;
-                }
-            }
-
-        };
 
         if (getYear() && getMonth() && getDay() && getGender() && getRegion() &&
             getYear() >= 1900 && getYear() <= 2100 && getRegion() >= 43 && getRegion() <= 999) {
 
-            egn = (getYear()).slice(2) + getMonth() + getDay() + regionAndGender(getRegion(), getGender());
+            egn = (getYear()).slice(2) + getMonth() + getDay() + (getRegion()).slice(0, 2) + getGender();
 
             let egnSum = 0;
             for (let i = 0; i < 9; i++) {
-                egnSum += egn[i] * weights[i];
+                if (egn[i] !== 0) {
+                    egnSum += (Number(egn[i]) * Number(weights[i]));
+                }
             }
-            let validChecksum = egnSum % 11 === 10 ? 0 : egnSum % 11;
+            let validChecksum = egnSum % 11 > 9 ? 0 : egnSum % 11;
 
             egn += validChecksum;
 
             document.getElementById('egn').textContent = `Your EGN is: ${egn}`;
+
             document.getElementById('year').value = '';
             document.getElementById('date').value = '';
             document.getElementById('region').value = '';
-            document.getElementById('month').selectedIndex = 0;
+            document.getElementById('month').value = '';
             document.getElementById('male').checked = false;
             document.getElementById('female').checked = false;
         }
