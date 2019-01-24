@@ -46,17 +46,16 @@
             getYear() >= 1900 && getYear() <= 2100 && getRegion() >= 43 && getRegion() <= 999) {
 
             egn = (getYear()).slice(2) + getMonth() + getDay() + regionAndGender(getRegion(), getGender());
+
             let egnSum = 0;
             for (let i = 0; i < 9; i++) {
                 egnSum += egn[i] * weights[i];
             }
-            let validChecksum = egnSum % 11;
-            if (validChecksum === 10) {
-                validChecksum = 0;
-            }
+            let validChecksum = egnSum % 11 === 10 ? 0 : egnSum % 11;
+
             egn += validChecksum;
 
-            document.getElementById('egn').innerHTML = `Your EGN is: ${egn}`;
+            document.getElementById('egn').textContent = `Your EGN is: ${egn}`;
             document.getElementById('year').value = '';
             document.getElementById('date').value = '';
             document.getElementById('region').value = '';
