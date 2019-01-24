@@ -5,68 +5,55 @@
     function generateCards() {
         let from = document.getElementById('from').value;
         let to = document.getElementById('to').value;
-        let suit = Array.from(document.getElementsByTagName('select'))[0].value.slice(0, -2);
-        if (from.length > 0 && to.length > 0) {
-            if (from === 'J') {
-                from = 11;
-            } else if (from === 'Q') {
-                from = 12;
-            } else if (from === 'K') {
-                from = 13;
-            } else if (from === 'A') {
-                from = 14;
+        let suitChoosen = document.querySelector('#exercise select').selectedIndex;
+        let unicode = getSuit(suitChoosen);
+        let resultElement = document.getElementById('cards');
+
+        let numbers = ['2', '3', '4', '5', '6', '7', '8', '9', '10', 'J', 'Q', 'K', 'A'];
+        let cards = [];
+
+        if (numbers.indexOf(from) !== -1 && numbers.indexOf(to) !== -1) {
+            for (let i = numbers.indexOf(from); i <= numbers.indexOf(to); i++) {
+                let card = {
+                    suit: unicode,
+                    value: numbers[i]
+                };
+                cards.push(card);
             }
-
-            if (to === 'J') {
-                to = 11;
-            } else if (to === 'Q') {
-                to = 12;
-            } else if (to === 'K') {
-                to = 13;
-            } else if (to === 'A') {
-                to = 14;
-            }
-
-            for (let i = from; i <= to; i++) {
-                let card = i;
-                let code;
-                if (i === 11) {
-                    card = 'J';
-                } else if (i === 12) {
-                    card = 'Q';
-                } else if (i === 13) {
-                    card = 'K';
-                } else if (i === 14) {
-                    card = 'A';
-                }
-                switch (suit) {
-                    case 'Hearts':
-                        code = '&hearts;';
-                        break;
-                    case 'Spades':
-                        code = '&spades;';
-                        break;
-                    case 'Diamonds':
-                        code = '&diamond;';
-                        break;
-                    case 'Clubs':
-                        code = '&clubs;';
-                        break;
-
-                }
+            for (let card of cards) {
                 let div = document.createElement('div');
-                div.setAttribute('class', 'card');
                 let leftP = document.createElement('p');
                 let middleP = document.createElement('p');
                 let rightP = document.createElement('p');
-                leftP.innerHTML = code;
-                middleP.textContent = card;
-                rightP.innerHTML = code;
+                div.setAttribute('class', 'card');
                 div.appendChild(leftP);
                 div.appendChild(middleP);
                 div.appendChild(rightP);
-                document.getElementById('cards').appendChild(div);
+                leftP.innerHTML = card.suit;
+                middleP.innerHTML = card.value;
+                rightP.innerHTML = card.suit;
+                resultElement.appendChild(div);
             }
+
         }
+    }
+
+    function getSuit(suitChoosen) {
+        switch (suitChoosen) {
+            case 0:
+                unicode = '&hearts;';
+                break;
+            case 1:
+                unicode = '&spades;';
+                break;
+            case 2:
+                unicode = '&diamond;';
+                break;
+            case 3:
+                unicode = '&clubs;';
+                break;
+        }
+
+        return unicode;
     }
 })();
