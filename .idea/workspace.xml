@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="452a6102-5f71-4499-a576-c7eadae3276a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercise Functions and Logic Flow/06_Cards-Generator/solution.js" beforeDir="false" afterPath="$PROJECT_DIR$/Exercise Functions and Logic Flow/06_Cards-Generator/solution.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercise Functions and Logic Flow/10_Dot-Product/solution.js" beforeDir="false" afterPath="$PROJECT_DIR$/Exercise Functions and Logic Flow/10_Dot-Product/solution.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercise Functions and Logic Flow/04_EGN-Validator/solution.js" beforeDir="false" afterPath="$PROJECT_DIR$/Exercise Functions and Logic Flow/04_EGN-Validator/solution.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,19 +14,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Exercise Functions and Logic Flow/10_Dot-Product/solution.js">
+        <entry file="file://$PROJECT_DIR$/Exercise Functions and Logic Flow/04_EGN-Validator/solution.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="40" selection-end-line="32" selection-end-column="1" />
+            <state relative-caret-position="726">
+              <caret line="64" column="43" selection-start-line="64" selection-start-column="43" selection-end-line="64" selection-end-column="43" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Exercise Functions and Logic Flow/10_Dot-Product/template.html">
+        <entry file="file://$PROJECT_DIR$/Exercise Functions and Logic Flow/04_EGN-Validator/template.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="544">
-              <caret line="32" column="44" selection-start-line="32" selection-start-column="38" selection-end-line="32" selection-end-column="44" />
+            <state relative-caret-position="760">
+              <caret line="79" column="30" selection-start-line="79" selection-start-column="27" selection-end-line="79" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -99,14 +98,14 @@
         <option value="$PROJECT_DIR$/Exercise Functions and Logic Flow/02_Simple-Number-Validator/solution.js" />
         <option value="$PROJECT_DIR$/Exercise Functions and Logic Flow/03_Date-Validator/solution.js" />
         <option value="$PROJECT_DIR$/Exercise Functions and Logic Flow/04_EGN-Validator/template.html" />
-        <option value="$PROJECT_DIR$/Exercise Functions and Logic Flow/04_EGN-Validator/solution.js" />
         <option value="$PROJECT_DIR$/Exercise Functions and Logic Flow/05_Cooking-Numbers/solution.js" />
         <option value="$PROJECT_DIR$/Exercise Functions and Logic Flow/07_Greatest-Common-Divisor/solution.js" />
         <option value="$PROJECT_DIR$/Exercise Functions and Logic Flow/08_Binary-Search/solution.js" />
         <option value="$PROJECT_DIR$/Exercise Functions and Logic Flow/09_Hailstone-Sequence/solution.js" />
         <option value="$PROJECT_DIR$/Exercise Functions and Logic Flow/11_Factors/solution.js" />
-        <option value="$PROJECT_DIR$/Exercise Functions and Logic Flow/06_Cards-Generator/solution.js" />
         <option value="$PROJECT_DIR$/Exercise Functions and Logic Flow/10_Dot-Product/solution.js" />
+        <option value="$PROJECT_DIR$/Exercise Functions and Logic Flow/06_Cards-Generator/solution.js" />
+        <option value="$PROJECT_DIR$/Exercise Functions and Logic Flow/04_EGN-Validator/solution.js" />
       </list>
     </option>
   </component>
@@ -144,13 +143,7 @@
               <item name="JS-Core-January-2019" type="b2602c69:ProjectViewProjectNode" />
               <item name="JS-Core-January-2019" type="462c0819:PsiDirectoryNode" />
               <item name="Exercise Functions and Logic Flow" type="462c0819:PsiDirectoryNode" />
-              <item name="06_Cards-Generator" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JS-Core-January-2019" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JS-Core-January-2019" type="462c0819:PsiDirectoryNode" />
-              <item name="Exercise Functions and Logic Flow" type="462c0819:PsiDirectoryNode" />
-              <item name="10_Dot-Product" type="462c0819:PsiDirectoryNode" />
+              <item name="04_EGN-Validator" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -177,11 +170,11 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.template.html (1)">
+  <component name="RunManager" selected="JavaScript Debug.template.html (2)">
     <configuration name="template.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JS-Core-January-2019/Exercise Functions and Logic Flow/10_Dot-Product/template.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="template.html (3)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JS-Core-January-2019/Exercise Functions and Logic Flow/09_Hailstone-Sequence/template.html" useBuiltInWebServerPort="true">
+    <configuration name="template.html (2)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JS-Core-January-2019/Exercise Functions and Logic Flow/04_EGN-Validator/template.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="template.html (4)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JS-Core-January-2019/Exercise Functions and Logic Flow/06_Cards-Generator/template.html" useBuiltInWebServerPort="true">
@@ -195,11 +188,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.template.html (2)" />
+        <item itemvalue="JavaScript Debug.template.html (4)" />
         <item itemvalue="JavaScript Debug.template.html (1)" />
         <item itemvalue="Node.js.solution.js" />
-        <item itemvalue="JavaScript Debug.template.html (4)" />
         <item itemvalue="JavaScript Debug.template.html" />
-        <item itemvalue="JavaScript Debug.template.html (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -222,7 +215,7 @@
       <workItem from="1548151012254" duration="11729000" />
       <workItem from="1548178563744" duration="1578000" />
       <workItem from="1548226119514" duration="27346000" />
-      <workItem from="1548314379557" duration="3692000" />
+      <workItem from="1548314379557" duration="12642000" />
     </task>
     <task id="LOCAL-00001" summary="Upload">
       <created>1547576687679</created>
@@ -399,17 +392,31 @@
       <option name="project" value="LOCAL" />
       <updated>1548253149028</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="Upload">
+      <created>1548318098166</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1548318098166</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Upload">
+      <created>1548321482022</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1548321482022</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="74676000" />
+    <option name="totallyTimeSpent" value="83626000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1705379" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1705379" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -691,20 +698,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Exercise Functions and Logic Flow/04_EGN-Validator/solution.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="281">
-          <caret line="18" column="16" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Exercise Functions and Logic Flow/04_EGN-Validator/template.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="760">
-          <caret line="79" column="30" selection-start-line="79" selection-start-column="27" selection-end-line="79" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Exercise Functions and Logic Flow/05_Cooking-Numbers/solution.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
@@ -782,23 +775,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Exercise Functions and Logic Flow/06_Cards-Generator/template.html">
+    <entry file="file://$PROJECT_DIR$/Exercise Functions and Logic Flow/10_Dot-Product/solution.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="39" lean-forward="true" selection-start-line="13" selection-start-column="39" selection-end-line="13" selection-end-column="39" />
-          <folding>
-            <element signature="e#795#803#0" expanded="true" />
-            <element signature="e#848#856#0" expanded="true" />
-            <element signature="e#903#912#0" expanded="true" />
-            <element signature="e#956#963#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Exercise Functions and Logic Flow/06_Cards-Generator/solution.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="44" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
+        <state relative-caret-position="323">
+          <caret line="19" column="27" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
         </state>
       </provider>
     </entry>
@@ -809,10 +789,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Exercise Functions and Logic Flow/10_Dot-Product/solution.js">
+    <entry file="file://$PROJECT_DIR$/Exercise Functions and Logic Flow/06_Cards-Generator/solution.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="40" selection-end-line="32" selection-end-column="1" />
+        <state relative-caret-position="510">
+          <caret line="30" column="40" selection-start-line="30" selection-start-column="40" selection-end-line="30" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercise Functions and Logic Flow/06_Cards-Generator/template.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="30" column="34" selection-start-line="30" selection-start-column="29" selection-end-line="30" selection-end-column="34" />
+          <folding>
+            <element signature="e#795#803#0" expanded="true" />
+            <element signature="e#848#856#0" expanded="true" />
+            <element signature="e#903#912#0" expanded="true" />
+            <element signature="e#956#963#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercise Functions and Logic Flow/04_EGN-Validator/template.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="760">
+          <caret line="79" column="30" selection-start-line="79" selection-start-column="27" selection-end-line="79" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercise Functions and Logic Flow/04_EGN-Validator/solution.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="726">
+          <caret line="64" column="43" selection-start-line="64" selection-start-column="43" selection-end-line="64" selection-end-column="43" />
         </state>
       </provider>
     </entry>
