@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="452a6102-5f71-4499-a576-c7eadae3276a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercise Functions and Logic Flow/04_EGN-Validator/solution.js" beforeDir="false" afterPath="$PROJECT_DIR$/Exercise Functions and Logic Flow/04_EGN-Validator/solution.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/More Exercise Document Object Model/02_Order-the-Names/solution.js" beforeDir="false" afterPath="$PROJECT_DIR$/More Exercise Document Object Model/02_Order-the-Names/solution.js" afterDir="false" />
-    </list>
+    <list default="true" id="452a6102-5f71-4499-a576-c7eadae3276a" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -223,7 +219,7 @@
       <workItem from="1548178563744" duration="1578000" />
       <workItem from="1548226119514" duration="27346000" />
       <workItem from="1548314379557" duration="18359000" />
-      <workItem from="1548352196688" duration="2687000" />
+      <workItem from="1548352196688" duration="3297000" />
     </task>
     <task id="LOCAL-00001" summary="Upload">
       <created>1547576687679</created>
@@ -428,11 +424,18 @@
       <option name="project" value="LOCAL" />
       <updated>1548336335162</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="Upload">
+      <created>1548355034687</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1548355034688</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="92030000" />
+    <option name="totallyTimeSpent" value="92640000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
