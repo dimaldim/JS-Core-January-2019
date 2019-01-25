@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="452a6102-5f71-4499-a576-c7eadae3276a" name="Default Changelist" comment="" />
+    <list default="true" id="452a6102-5f71-4499-a576-c7eadae3276a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab Arrays and Matrices/03_Replace-and-Reverse/solution.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lab Arrays and Matrices/03_Replace-and-Reverse/solution.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab Arrays and Matrices/04_Find-Element/solution.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lab Arrays and Matrices/04_Find-Element/solution.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lab Arrays and Matrices/05_Multiple-Sort/solution.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lab Arrays and Matrices/05_Multiple-Sort/solution.js" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -10,20 +15,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Exercise Functions and Logic Flow/04_EGN-Validator/template.html">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Lab Arrays and Matrices/05_Multiple-Sort/solution.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="267">
-              <caret line="47" column="22" lean-forward="true" selection-start-line="47" selection-start-column="22" selection-end-line="47" selection-end-column="22" />
+            <state relative-caret-position="204">
+              <caret line="12" column="10" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Exercise Functions and Logic Flow/04_EGN-Validator/solution.js">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lab Arrays and Matrices/05_Multiple-Sort/template.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="305">
-              <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
+            <state relative-caret-position="391">
+              <caret line="23" column="50" selection-start-line="23" selection-start-column="47" selection-end-line="23" selection-end-column="50" />
             </state>
           </provider>
         </entry>
@@ -57,7 +62,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Lab: JavaScript Syntax and Operators/01.String Length.js" />
         <option value="$PROJECT_DIR$/Lab: JavaScript Syntax and Operators/02.Math Operations.js" />
         <option value="$PROJECT_DIR$/Exercise: JavaScript Syntax and Operators/05.Greatest Common Divisor – GCD.js" />
         <option value="$PROJECT_DIR$/Exercise: JavaScript Syntax and Operators/06.Same Numbers.js" />
@@ -104,6 +108,11 @@
         <option value="$PROJECT_DIR$/Exercise Functions and Logic Flow/06_Cards-Generator/solution.js" />
         <option value="$PROJECT_DIR$/More Exercise Document Object Model/02_Order-the-Names/solution.js" />
         <option value="$PROJECT_DIR$/Exercise Functions and Logic Flow/04_EGN-Validator/solution.js" />
+        <option value="$PROJECT_DIR$/Lab Arrays and Matrices/01_Sum-First-Last/solution.js" />
+        <option value="$PROJECT_DIR$/Lab Arrays and Matrices/02_Even-Position-Element/solution.js" />
+        <option value="$PROJECT_DIR$/Lab Arrays and Matrices/03_Replace-and-Reverse/solution.js" />
+        <option value="$PROJECT_DIR$/Lab Arrays and Matrices/04_Find-Element/solution.js" />
+        <option value="$PROJECT_DIR$/Lab Arrays and Matrices/05_Multiple-Sort/solution.js" />
       </list>
     </option>
   </component>
@@ -124,7 +133,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -140,18 +148,19 @@
             <path>
               <item name="JS-Core-January-2019" type="b2602c69:ProjectViewProjectNode" />
               <item name="JS-Core-January-2019" type="462c0819:PsiDirectoryNode" />
-              <item name="Exercise Functions and Logic Flow" type="462c0819:PsiDirectoryNode" />
-              <item name="04_EGN-Validator" type="462c0819:PsiDirectoryNode" />
+              <item name="Lab Arrays and Matrices" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JS-Core-January-2019" type="b2602c69:ProjectViewProjectNode" />
               <item name="JS-Core-January-2019" type="462c0819:PsiDirectoryNode" />
-              <item name="Lab Functions and Logic flow" type="462c0819:PsiDirectoryNode" />
+              <item name="Lab Arrays and Matrices" type="462c0819:PsiDirectoryNode" />
+              <item name="05_Multiple-Sort" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -173,29 +182,29 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.template.html (2)">
-    <configuration name="template.html (2)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JS-Core-January-2019/Exercise Functions and Logic Flow/04_EGN-Validator/template.html" useBuiltInWebServerPort="true">
+  <component name="RunManager" selected="JavaScript Debug.template.html (5)">
+    <configuration name="template.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JS-Core-January-2019/Lab Arrays and Matrices/01_Sum-First-Last/template.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="template.html (3)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JS-Core-January-2019/More Exercise Document Object Model/01_Numpad-Calculator/template.html" useBuiltInWebServerPort="true">
+    <configuration name="template.html (3)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JS-Core-January-2019/Lab Arrays and Matrices/03_Replace-and-Reverse/template.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="template.html (4)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JS-Core-January-2019/Exercise Functions and Logic Flow/06_Cards-Generator/template.html" useBuiltInWebServerPort="true">
+    <configuration name="template.html (4)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JS-Core-January-2019/Lab Arrays and Matrices/02_Even-Position-Element/template.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="template.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JS-Core-January-2019/More Exercise Document Object Model/02_Order-the-Names/template.html" useBuiltInWebServerPort="true">
+    <configuration name="template.html (5)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JS-Core-January-2019/Lab Arrays and Matrices/05_Multiple-Sort/template.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="solution.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Exercise Functions and Logic Flow/04_EGN-Validator/solution.js" working-dir="$PROJECT_DIR$">
+    <configuration name="template.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JS-Core-January-2019/Lab Arrays and Matrices/04_Find-Element/template.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JavaScript Debug.template.html (2)" />
-        <item itemvalue="Node.js.solution.js" />
+        <item itemvalue="JavaScript Debug.template.html (5)" />
         <item itemvalue="JavaScript Debug.template.html" />
         <item itemvalue="JavaScript Debug.template.html (3)" />
         <item itemvalue="JavaScript Debug.template.html (4)" />
+        <item itemvalue="JavaScript Debug.template.html (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -220,6 +229,7 @@
       <workItem from="1548226119514" duration="27346000" />
       <workItem from="1548314379557" duration="18359000" />
       <workItem from="1548352196688" duration="3297000" />
+      <workItem from="1548399286264" duration="5062000" />
     </task>
     <task id="LOCAL-00001" summary="Upload">
       <created>1547576687679</created>
@@ -431,17 +441,31 @@
       <option name="project" value="LOCAL" />
       <updated>1548355034688</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="Upload">
+      <created>1548399329415</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1548399329415</updated>
+    </task>
+    <task id="LOCAL-00032" summary="Upload">
+      <created>1548401247766</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1548401247766</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="92640000" />
+    <option name="totallyTimeSpent" value="97702000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1732224" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17542787" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -491,83 +515,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Exercise Document Object Model/01_Cards/solution.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Exercise Document Object Model/07_SoftUni-Quizz-Resources/solution.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="782">
-          <caret line="46" column="1" selection-end-line="46" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Exercise Document Object Model/07_SoftUni-Quizz-Resources/template.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="46" column="48" selection-start-line="46" selection-start-column="34" selection-end-line="46" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Exercise Document Object Model/08_Table-Search-Engine-Resources/template.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="539">
-          <caret line="97" column="7" selection-start-line="97" selection-start-column="1" selection-end-line="97" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Exercise Document Object Model/08_Table-Search-Engine-Resources/solution.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" selection-start-line="3" selection-end-line="3" selection-end-column="61" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Exercise Document Object Model/08_Table-Search-Engine-Resources/template.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="19" column="27" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Exercise Document Object Model/09_Toto-Numbers-Resources/solution.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="12" selection-start-line="24" selection-start-column="12" selection-end-line="24" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Exercise Document Object Model/09_Toto-Numbers-Resources/template.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" column="31" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Exercise Document Object Model/10_Virus-Installer-Resources/template.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="607">
-          <caret line="119" column="7" selection-start-line="119" selection-start-column="1" selection-end-line="119" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Exercise Document Object Model/10_Virus-Installer-Resources/template.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="474">
-          <caret line="43" column="13" selection-start-line="43" selection-start-column="6" selection-end-line="43" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Exercise Document Object Model/10_Virus-Installer-Resources/solution.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="454">
-          <caret line="31" column="27" lean-forward="true" selection-start-line="31" selection-start-column="27" selection-end-line="31" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.dom.d.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
@@ -836,17 +783,90 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Exercise Functions and Logic Flow/04_EGN-Validator/template.html">
+    <entry file="file://$PROJECT_DIR$/Exercise Functions and Logic Flow/04_EGN-Validator/solution.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="267">
-          <caret line="47" column="22" lean-forward="true" selection-start-line="47" selection-start-column="22" selection-end-line="47" selection-end-column="22" />
+        <state relative-caret-position="352">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Exercise Functions and Logic Flow/04_EGN-Validator/solution.js">
+    <entry file="file://$PROJECT_DIR$/Exercise Functions and Logic Flow/04_EGN-Validator/template.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="305">
-          <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
+        <state relative-caret-position="267">
+          <caret line="47" column="22" selection-start-line="47" selection-start-column="22" selection-end-line="47" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab Arrays and Matrices/01_Sum-First-Last/solution.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="1" lean-forward="true" selection-end-line="13" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab Arrays and Matrices/01_Sum-First-Last/template.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="45" selection-start-line="27" selection-start-column="39" selection-end-line="27" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab Arrays and Matrices/02_Even-Position-Element/solution.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab Arrays and Matrices/02_Even-Position-Element/template.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="45" selection-start-line="27" selection-start-column="39" selection-end-line="27" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab Arrays and Matrices/03_Replace-and-Reverse/solution.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="41" selection-end-line="21" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab Arrays and Matrices/03_Replace-and-Reverse/template.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="45" selection-start-line="27" selection-start-column="39" selection-end-line="27" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab Arrays and Matrices/04_Find-Element/template.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab Arrays and Matrices/04_Find-Element/solution.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab Arrays and Matrices/04_Find-Element/template.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="50" selection-start-line="27" selection-start-column="47" selection-end-line="27" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab Arrays and Matrices/05_Multiple-Sort/template.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="50" selection-start-line="23" selection-start-column="47" selection-end-line="23" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab Arrays and Matrices/05_Multiple-Sort/solution.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="10" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
         </state>
       </provider>
     </entry>
