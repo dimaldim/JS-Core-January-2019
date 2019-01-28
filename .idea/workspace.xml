@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="452a6102-5f71-4499-a576-c7eadae3276a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Exercise Arrays and Matrices/3.Add and Remove Elements from an Array.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise Arrays and Matrices/4.Rotate Array.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exercise Arrays and Matrices/5.Extract a Non-decreasing Subsequence from an Array.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise Arrays and Matrices/6.Sort an Array by 2 Criteria.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,12 +12,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Exercise Arrays and Matrices/5.Extract a Non-decreasing Subsequence from an Array.js">
+        <entry file="file://$PROJECT_DIR$/Exercise Arrays and Matrices/6.Sort an Array by 2 Criteria.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+            <state relative-caret-position="34">
+              <caret line="2" column="8" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -53,7 +51,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Exercise: JavaScript Syntax and Operators/09.Calorie Object.js" />
         <option value="$PROJECT_DIR$/Exercise: JavaScript Syntax and Operators/10.Coffee Machine.js" />
         <option value="$PROJECT_DIR$/More Exercise: JavaScript Syntax and Operators/01.Daily Calorie Intake.js" />
         <option value="$PROJECT_DIR$/More Exercise: JavaScript Syntax and Operators/02.Common Numbers.js" />
@@ -104,6 +101,7 @@
         <option value="$PROJECT_DIR$/Exercise Arrays and Matrices/3.Add and Remove Elements from an Array.js" />
         <option value="$PROJECT_DIR$/Exercise Arrays and Matrices/4.Rotate Array.js" />
         <option value="$PROJECT_DIR$/Exercise Arrays and Matrices/5.Extract a Non-decreasing Subsequence from an Array.js" />
+        <option value="$PROJECT_DIR$/Exercise Arrays and Matrices/6.Sort an Array by 2 Criteria.js" />
       </list>
     </option>
   </component>
@@ -165,10 +163,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.5.Extract a Non-decreasing Subsequence from an Array.js">
-    <configuration name="1.Print an Array with a given Delimiter.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Exercise Arrays and Matrices/1.Print an Array with a given Delimiter.js" working-dir="$PROJECT_DIR$">
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Node.js.6.Sort an Array by 2 Criteria.js">
     <configuration name="2.Print every N-th Element from an Array.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Exercise Arrays and Matrices/2.Print every N-th Element from an Array.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
@@ -181,13 +176,16 @@
     <configuration name="5.Extract a Non-decreasing Subsequence from an Array.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Exercise Arrays and Matrices/5.Extract a Non-decreasing Subsequence from an Array.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
+    <configuration name="6.Sort an Array by 2 Criteria.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Exercise Arrays and Matrices/6.Sort an Array by 2 Criteria.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.6.Sort an Array by 2 Criteria.js" />
         <item itemvalue="Node.js.5.Extract a Non-decreasing Subsequence from an Array.js" />
         <item itemvalue="Node.js.4.Rotate Array.js" />
         <item itemvalue="Node.js.3.Add and Remove Elements from an Array.js" />
         <item itemvalue="Node.js.2.Print every N-th Element from an Array.js" />
-        <item itemvalue="Node.js.1.Print an Array with a given Delimiter.js" />
       </list>
     </recent_temporary>
   </component>
@@ -213,7 +211,8 @@
       <workItem from="1548314379557" duration="18359000" />
       <workItem from="1548352196688" duration="3297000" />
       <workItem from="1548399286264" duration="8957000" />
-      <workItem from="1548588075166" duration="4548000" />
+      <workItem from="1548588075166" duration="5378000" />
+      <workItem from="1548660193841" duration="271000" />
     </task>
     <task id="LOCAL-00001" summary="Upload">
       <created>1547576687679</created>
@@ -453,22 +452,29 @@
       <option name="project" value="LOCAL" />
       <updated>1548588595246</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="Upload">
+      <created>1548611417225</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1548611417225</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="106145000" />
+    <option name="totallyTimeSpent" value="107246000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
+    <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17765044" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1797066" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49928367" visible="true" weight="0.32839838" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49928367" visible="true" weight="0.3281075" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3975364" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -513,13 +519,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Lab Functions and Logic flow/03_Count-Occurrences-of-a-Given-Character/solution.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="35" lean-forward="true" selection-end-line="27" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Lab Functions and Logic flow/03_Count-Occurrences-of-a-Given-Character/template.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="459">
@@ -826,34 +825,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Exercise Arrays and Matrices/3.Add and Remove Elements from an Array.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="9" selection-end-line="19" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Exercise Arrays and Matrices/1.Print an Array with a given Delimiter.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Exercise Arrays and Matrices/2.Print every N-th Element from an Array.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Exercise Arrays and Matrices/4.Rotate Array.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercise Arrays and Matrices/3.Add and Remove Elements from an Array.js" />
+    <entry file="file://$PROJECT_DIR$/Exercise Arrays and Matrices/1.Print an Array with a given Delimiter.js" />
+    <entry file="file://$PROJECT_DIR$/Exercise Arrays and Matrices/2.Print every N-th Element from an Array.js" />
+    <entry file="file://$PROJECT_DIR$/Exercise Arrays and Matrices/4.Rotate Array.js" />
     <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.es5.d.ts">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="157">
@@ -861,10 +836,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Exercise Arrays and Matrices/5.Extract a Non-decreasing Subsequence from an Array.js">
+    <entry file="file://$PROJECT_DIR$/Exercise Arrays and Matrices/5.Extract a Non-decreasing Subsequence from an Array.js" />
+    <entry file="file://$PROJECT_DIR$/Exercise Arrays and Matrices/6.Sort an Array by 2 Criteria.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+        <state relative-caret-position="34">
+          <caret line="2" column="8" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
         </state>
       </provider>
     </entry>
