@@ -17,5 +17,3 @@ function solve(input) {
 
     console.log(matrix.map(row => row.join(" ")).join("\n"));
 }
-
-solve([4, 4, 0, 0]);
