@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="452a6102-5f71-4499-a576-c7eadae3276a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercise Arrays and Matrices/10.Orbit.js" beforeDir="false" afterPath="$PROJECT_DIR$/Exercise Arrays and Matrices/10.Orbit.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/More Exercise Arrays and Matrices/1.Car Category/solution.js" beforeDir="false" afterPath="$PROJECT_DIR$/More Exercise Arrays and Matrices/1.Car Category/solution.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,26 +11,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/More Exercise Arrays and Matrices/1.Car Category/solution.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="21" column="34" selection-start-line="21" selection-start-column="34" selection-end-line="21" selection-end-column="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/More Exercise Arrays and Matrices/1.Car Category/template.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="23" column="50" selection-start-line="23" selection-start-column="47" selection-end-line="23" selection-end-column="50" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -228,7 +207,7 @@
       <workItem from="1548352196688" duration="3297000" />
       <workItem from="1548399286264" duration="8957000" />
       <workItem from="1548588075166" duration="5378000" />
-      <workItem from="1548660193841" duration="9450000" />
+      <workItem from="1548660193841" duration="10660000" />
     </task>
     <task id="LOCAL-00001" summary="Upload">
       <created>1547576687679</created>
@@ -503,22 +482,28 @@
       <option name="project" value="LOCAL" />
       <updated>1548667503382</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="Upload">
+      <created>1548677332490</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1548677332490</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="116425000" />
+    <option name="totallyTimeSpent" value="117635000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1797066" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1797066" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49928367" visible="true" weight="0.3281075" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49928367" weight="0.3281075" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3975364" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -884,7 +869,7 @@
     <entry file="file://$PROJECT_DIR$/More Exercise Arrays and Matrices/1.Car Category/solution.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
-          <caret line="21" column="34" selection-start-line="21" selection-start-column="34" selection-end-line="21" selection-end-column="34" />
+          <caret line="21" column="19" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
         </state>
       </provider>
     </entry>
