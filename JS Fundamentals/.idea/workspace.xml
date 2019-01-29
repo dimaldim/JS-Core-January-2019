@@ -1,0 +1,913 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="452a6102-5f71-4499-a576-c7eadae3276a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Lab Strings and RegEx/05_Extract-User-Data/solution.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="8" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Lab Strings and RegEx/05_Extract-User-Data/template.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="23" column="50" selection-start-line="23" selection-start-column="47" selection-end-line="23" selection-end-column="50" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>#text</find>
+      <find>select</find>
+      <find>input</find>
+      <find>firstS</find>
+      <find>section</find>
+      <find>button</find>
+      <find>greatest</find>
+    </findStrings>
+    <dirStrings>
+      <dir>C:\Users\Dimitar\Desktop\SoftUni\JS-Core-January-2019</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Lab: Document Object Model/04_Register-Notification/solution.js" />
+        <option value="$PROJECT_DIR$/Lab: Document Object Model/05_Visited-Sites/solution.js" />
+        <option value="$PROJECT_DIR$/Lab: Document Object Model/02_Format-the-Text/solution.js" />
+        <option value="$PROJECT_DIR$/Exercise Document Object Model/06_Number-Convertor-Resources/solution.js" />
+        <option value="$PROJECT_DIR$/Exercise Document Object Model/04_Locked-Profile-Resources/solution.js" />
+        <option value="$PROJECT_DIR$/Exercise Document Object Model/01_Cards/template.html" />
+        <option value="$PROJECT_DIR$/Exercise Document Object Model/01_Cards/solution.js" />
+        <option value="$PROJECT_DIR$/Exercise Document Object Model/07_SoftUni-Quizz-Resources/solution.js" />
+        <option value="$PROJECT_DIR$/Exercise Document Object Model/08_Table-Search-Engine-Resources/solution.js" />
+        <option value="$PROJECT_DIR$/Exercise Document Object Model/09_Toto-Numbers-Resources/solution.js" />
+        <option value="$PROJECT_DIR$/Exercise Document Object Model/10_Virus-Installer-Resources/solution.js" />
+        <option value="$PROJECT_DIR$/More Exercise Document Object Model/01_Numpad-Calculator/solution.js" />
+        <option value="$PROJECT_DIR$/Lab Functions and Logic flow/01_Multiplication-Table/solution.js" />
+        <option value="$PROJECT_DIR$/Lab Functions and Logic flow/02_Temperature-Converter/solution.js" />
+        <option value="$PROJECT_DIR$/Lab Functions and Logic flow/03_Count-Occurrences-of-a-Given-Character/solution.js" />
+        <option value="$PROJECT_DIR$/Lab Functions and Logic flow/04_Unique-Characters/solution.js" />
+        <option value="$PROJECT_DIR$/Lab Functions and Logic flow/05_Special-Words/solution.js" />
+        <option value="$PROJECT_DIR$/Exercise Functions and Logic Flow/01_Leap-Year/solution.js" />
+        <option value="$PROJECT_DIR$/Exercise Functions and Logic Flow/02_Simple-Number-Validator/solution.js" />
+        <option value="$PROJECT_DIR$/Exercise Functions and Logic Flow/03_Date-Validator/solution.js" />
+        <option value="$PROJECT_DIR$/Exercise Functions and Logic Flow/04_EGN-Validator/template.html" />
+        <option value="$PROJECT_DIR$/Exercise Functions and Logic Flow/05_Cooking-Numbers/solution.js" />
+        <option value="$PROJECT_DIR$/Exercise Functions and Logic Flow/07_Greatest-Common-Divisor/solution.js" />
+        <option value="$PROJECT_DIR$/Exercise Functions and Logic Flow/08_Binary-Search/solution.js" />
+        <option value="$PROJECT_DIR$/Exercise Functions and Logic Flow/09_Hailstone-Sequence/solution.js" />
+        <option value="$PROJECT_DIR$/Exercise Functions and Logic Flow/10_Dot-Product/solution.js" />
+        <option value="$PROJECT_DIR$/Exercise Functions and Logic Flow/06_Cards-Generator/solution.js" />
+        <option value="$PROJECT_DIR$/More Exercise Document Object Model/02_Order-the-Names/solution.js" />
+        <option value="$PROJECT_DIR$/Exercise Functions and Logic Flow/04_EGN-Validator/solution.js" />
+        <option value="$PROJECT_DIR$/Lab Arrays and Matrices/01_Sum-First-Last/solution.js" />
+        <option value="$PROJECT_DIR$/Lab Arrays and Matrices/02_Even-Position-Element/solution.js" />
+        <option value="$PROJECT_DIR$/Lab Arrays and Matrices/03_Replace-and-Reverse/solution.js" />
+        <option value="$PROJECT_DIR$/Lab Arrays and Matrices/04_Find-Element/solution.js" />
+        <option value="$PROJECT_DIR$/Lab Arrays and Matrices/05_Multiple-Sort/solution.js" />
+        <option value="$PROJECT_DIR$/Exercise Functions and Logic Flow/11_Factors/solution.js" />
+        <option value="$PROJECT_DIR$/Exercise Arrays and Matrices/1.Print an Array with a given Delimiter.js" />
+        <option value="$PROJECT_DIR$/Exercise Arrays and Matrices/2.Print every N-th Element from an Array.js" />
+        <option value="$PROJECT_DIR$/Exercise Arrays and Matrices/3.Add and Remove Elements from an Array.js" />
+        <option value="$PROJECT_DIR$/Exercise Arrays and Matrices/4.Rotate Array.js" />
+        <option value="$PROJECT_DIR$/Exercise Arrays and Matrices/5.Extract a Non-decreasing Subsequence from an Array.js" />
+        <option value="$PROJECT_DIR$/Exercise Arrays and Matrices/6.Sort an Array by 2 Criteria.js" />
+        <option value="$PROJECT_DIR$/Exercise Arrays and Matrices/7.Magic Matrices.js" />
+        <option value="$PROJECT_DIR$/Exercise Arrays and Matrices/7. Spiral Matrix.js" />
+        <option value="$PROJECT_DIR$/Exercise Arrays and Matrices/9.Diagonal Attack.js" />
+        <option value="$PROJECT_DIR$/Exercise Arrays and Matrices/10.Orbit.js" />
+        <option value="$PROJECT_DIR$/More Exercise Arrays and Matrices/1.Car Category/solution.js" />
+        <option value="$PROJECT_DIR$/Lab Strings and RegEx/01_Pascal-or-Camel-Case/solution.js" />
+        <option value="$PROJECT_DIR$/Lab Strings and RegEx/02_Find-ASCII-Equivalent/solution.js" />
+        <option value="$PROJECT_DIR$/Lab Strings and RegEx/03_Split-String-Equally/solution.js" />
+        <option value="$PROJECT_DIR$/Lab Strings and RegEx/04_Replace-a-Certain-Word/solution.js" />
+        <option value="$PROJECT_DIR$/Lab Strings and RegEx/05_Extract-User-Data/solution.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.0" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-7" />
+    <option name="width" value="697" />
+    <option name="height" value="735" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="JS-Core-January-2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JS-Core-January-2019" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JS-Core-January-2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JS-Core-January-2019" type="462c0819:PsiDirectoryNode" />
+              <item name="Lab Strings and RegEx" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JS-Core-January-2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JS-Core-January-2019" type="462c0819:PsiDirectoryNode" />
+              <item name="Lab Strings and RegEx" type="462c0819:PsiDirectoryNode" />
+              <item name="04_Replace-a-Certain-Word" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JS-Core-January-2019" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JS-Core-January-2019" type="462c0819:PsiDirectoryNode" />
+              <item name="Lab Strings and RegEx" type="462c0819:PsiDirectoryNode" />
+              <item name="05_Extract-User-Data" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last.edited.regexp" value="i love programming" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Udemy/VueJS/Wonderful Quotes" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Node.js.solution.js">
+    <configuration name="template.html (2)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JS-Core-January-2019/Lab Strings and RegEx/02_Find-ASCII-Equivalent/template.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="template.html (3)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JS-Core-January-2019/Lab Strings and RegEx/03_Split-String-Equally/template.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="template.html (4)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JS-Core-January-2019/Lab Strings and RegEx/04_Replace-a-Certain-Word/template.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="template.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JS-Core-January-2019/Lab Strings and RegEx/05_Extract-User-Data/template.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="solution.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Lab Strings and RegEx/05_Extract-User-Data/solution.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.solution.js" />
+        <item itemvalue="JavaScript Debug.template.html" />
+        <item itemvalue="JavaScript Debug.template.html (4)" />
+        <item itemvalue="JavaScript Debug.template.html (3)" />
+        <item itemvalue="JavaScript Debug.template.html (2)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="452a6102-5f71-4499-a576-c7eadae3276a" name="Default Changelist" comment="" />
+      <created>1547576181711</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1547576181711</updated>
+      <workItem from="1547576192607" duration="1463000" />
+      <workItem from="1547616801325" duration="1202000" />
+      <workItem from="1547622587599" duration="11431000" />
+      <workItem from="1547653054067" duration="15000" />
+      <workItem from="1547796413568" duration="14148000" />
+      <workItem from="1548099389818" duration="2072000" />
+      <workItem from="1548151012254" duration="11729000" />
+      <workItem from="1548178563744" duration="1578000" />
+      <workItem from="1548226119514" duration="27346000" />
+      <workItem from="1548314379557" duration="18359000" />
+      <workItem from="1548352196688" duration="3297000" />
+      <workItem from="1548399286264" duration="8957000" />
+      <workItem from="1548588075166" duration="5378000" />
+      <workItem from="1548660193841" duration="10660000" />
+      <workItem from="1548681070766" duration="5220000" />
+    </task>
+    <task id="LOCAL-00001" summary="Upload">
+      <created>1547576687679</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1547576687679</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Upload">
+      <created>1547577799879</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1547577799879</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Upload">
+      <created>1547617993755</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1547617993755</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Upload">
+      <created>1547626355728</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1547626355729</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Upload">
+      <created>1547632504737</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1547632504737</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Upload">
+      <created>1547634545182</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1547634545182</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Upload">
+      <created>1547639779542</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1547639779542</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Upload">
+      <created>1547642886617</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1547642886618</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Upload">
+      <created>1547797370925</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1547797370925</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Upload">
+      <created>1547797736965</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1547797736965</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Upload">
+      <created>1547797771558</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1547797771558</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Upload">
+      <created>1547824884119</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1547824884119</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Upload">
+      <created>1548167498615</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1548167498615</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Upload">
+      <created>1548227286506</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1548227286506</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Upload">
+      <created>1548227365478</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1548227365478</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Upload">
+      <created>1548228416244</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1548228416244</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Upload">
+      <created>1548229499121</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1548229499121</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Upload">
+      <created>1548230655500</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1548230655500</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Upload">
+      <created>1548232370754</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1548232370754</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Upload">
+      <created>1548232464456</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1548232464456</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Upload">
+      <created>1548247864861</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1548247864861</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Upload">
+      <created>1548249495373</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1548249495373</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Upload">
+      <created>1548252523316</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1548252523316</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Upload">
+      <created>1548252800239</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1548252800239</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Upload">
+      <created>1548253149028</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1548253149028</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Upload">
+      <created>1548318098166</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1548318098166</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Upload">
+      <created>1548321482022</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1548321482022</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Upload">
+      <created>1548335925545</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1548335925545</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Upload">
+      <created>1548336335162</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1548336335162</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Upload">
+      <created>1548355034687</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1548355034688</updated>
+    </task>
+    <task id="LOCAL-00031" summary="Upload">
+      <created>1548399329415</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1548399329415</updated>
+    </task>
+    <task id="LOCAL-00032" summary="Upload">
+      <created>1548401247766</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1548401247766</updated>
+    </task>
+    <task id="LOCAL-00033" summary="Upload">
+      <created>1548406351593</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1548406351593</updated>
+    </task>
+    <task id="LOCAL-00034" summary="Upload">
+      <created>1548588595246</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1548588595246</updated>
+    </task>
+    <task id="LOCAL-00035" summary="Upload">
+      <created>1548611417225</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1548611417225</updated>
+    </task>
+    <task id="LOCAL-00036" summary="Upload">
+      <created>1548660537568</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1548660537568</updated>
+    </task>
+    <task id="LOCAL-00037" summary="Upload">
+      <created>1548661787604</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1548661787604</updated>
+    </task>
+    <task id="LOCAL-00038" summary="Upload">
+      <created>1548662478708</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1548662478708</updated>
+    </task>
+    <task id="LOCAL-00039" summary="Upload">
+      <created>1548667503382</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1548667503382</updated>
+    </task>
+    <task id="LOCAL-00040" summary="Upload">
+      <created>1548677332490</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1548677332490</updated>
+    </task>
+    <task id="LOCAL-00041" summary="Upload">
+      <created>1548681128635</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1548681128635</updated>
+    </task>
+    <task id="LOCAL-00042" summary="Upload">
+      <created>1548686410184</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1548686410184</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="122855000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18154034" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49928367" weight="0.3281075" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3975364" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32922733" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32922733" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5007163" side_tool="true" weight="0.32839838" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Upload" />
+    <option name="LAST_COMMIT_MESSAGE" value="Upload" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/Lab: Document Object Model/04_Register-Notification/solution.js</url>
+          <line>4</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/Exercise: JavaScript Syntax and Operators/10.Coffee Machine.js</url>
+          <line>18</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/Exercise: JavaScript Syntax and Operators/10.Coffee Machine.js</url>
+          <line>8</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Exercise Functions and Logic Flow/05_Cooking-Numbers/solution.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="709">
+          <caret line="63" column="1" selection-start-column="1" selection-end-line="63" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercise Functions and Logic Flow/06_Cards-Generator/solution.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="743">
+          <caret line="58" column="1" selection-start-column="1" selection-end-line="58" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercise Functions and Logic Flow/08_Binary-Search/solution.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="1" lean-forward="true" selection-end-line="12" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercise Functions and Logic Flow/07_Greatest-Common-Divisor/solution.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="22" lean-forward="true" selection-end-line="13" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercise Functions and Logic Flow/09_Hailstone-Sequence/solution.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" lean-forward="true" selection-end-line="19" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercise Functions and Logic Flow/10_Dot-Product/solution.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="15" lean-forward="true" selection-end-line="32" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercise Functions and Logic Flow/04_EGN-Validator/template.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/More Exercise Document Object Model/01_Numpad-Calculator/solution.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/More Exercise Document Object Model/01_Numpad-Calculator/template.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="22" lean-forward="true" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/More Exercise Document Object Model/02_Order-the-Names/solution.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="22" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercise Functions and Logic Flow/02_Simple-Number-Validator/solution.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="41" lean-forward="true" selection-start-line="16" selection-start-column="41" selection-end-line="16" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercise Functions and Logic Flow/03_Date-Validator/solution.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/More Exercise Document Object Model/02_Order-the-Names/template.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="18" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercise Functions and Logic Flow/04_EGN-Validator/solution.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercise Functions and Logic Flow/04_EGN-Validator/template.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="267">
+          <caret line="47" column="22" selection-start-line="47" selection-start-column="22" selection-end-line="47" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab Arrays and Matrices/01_Sum-First-Last/solution.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="1" lean-forward="true" selection-end-line="13" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab Arrays and Matrices/01_Sum-First-Last/template.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="45" selection-start-line="27" selection-start-column="39" selection-end-line="27" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab Arrays and Matrices/02_Even-Position-Element/solution.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab Arrays and Matrices/02_Even-Position-Element/template.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="45" selection-start-line="27" selection-start-column="39" selection-end-line="27" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab Arrays and Matrices/03_Replace-and-Reverse/solution.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="41" selection-end-line="21" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab Arrays and Matrices/03_Replace-and-Reverse/template.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="45" selection-start-line="27" selection-start-column="39" selection-end-line="27" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab Arrays and Matrices/04_Find-Element/template.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab Arrays and Matrices/04_Find-Element/solution.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab Arrays and Matrices/04_Find-Element/template.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="50" selection-start-line="27" selection-start-column="47" selection-end-line="27" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab Arrays and Matrices/05_Multiple-Sort/solution.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="21" selection-end-line="21" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab Arrays and Matrices/05_Multiple-Sort/template.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="50" selection-start-line="23" selection-start-column="47" selection-end-line="23" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercise Functions and Logic Flow/11_Factors/solution.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="8" selection-start-line="2" selection-start-column="8" selection-end-line="2" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercise Functions and Logic Flow/11_Factors/template.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="36" lean-forward="true" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercise Arrays and Matrices/3.Add and Remove Elements from an Array.js" />
+    <entry file="file://$PROJECT_DIR$/Exercise Arrays and Matrices/1.Print an Array with a given Delimiter.js" />
+    <entry file="file://$PROJECT_DIR$/Exercise Arrays and Matrices/2.Print every N-th Element from an Array.js" />
+    <entry file="file://$PROJECT_DIR$/Exercise Arrays and Matrices/4.Rotate Array.js" />
+    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/lib.es5.d.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="1309" column="4" selection-start-line="1309" selection-start-column="4" selection-end-line="1309" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercise Arrays and Matrices/5.Extract a Non-decreasing Subsequence from an Array.js" />
+    <entry file="file://$PROJECT_DIR$/Exercise Arrays and Matrices/6.Sort an Array by 2 Criteria.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="6" lean-forward="true" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercise Arrays and Matrices/8.Magic Matrices.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="26" selection-end-line="15" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercise Arrays and Matrices/7. Spiral Matrix.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="447">
+          <caret line="55" column="1" selection-end-line="55" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercise Arrays and Matrices/9.Diagonal Attack.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="447">
+          <caret line="31" column="1" selection-end-line="31" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercise Arrays and Matrices/10.Orbit.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/More Exercise Arrays and Matrices/1.Car Category/template.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="50" selection-start-line="23" selection-start-column="47" selection-end-line="23" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/More Exercise Arrays and Matrices/1.Car Category/solution.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="19" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab Strings and RegEx/01_Pascal-or-Camel-Case/solution.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="24" selection-end-line="27" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab Strings and RegEx/01_Pascal-or-Camel-Case/template.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="31" column="45" selection-start-line="31" selection-start-column="39" selection-end-line="31" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab Strings and RegEx/02_Find-ASCII-Equivalent/solution.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="25" selection-end-line="24" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab Strings and RegEx/02_Find-ASCII-Equivalent/template.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="50" selection-start-line="23" selection-start-column="47" selection-end-line="23" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab Strings and RegEx/03_Split-String-Equally/solution.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="9" lean-forward="true" selection-end-line="26" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab Strings and RegEx/03_Split-String-Equally/template.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="24" lean-forward="true" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab Strings and RegEx/04_Replace-a-Certain-Word/template.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="31" column="45" selection-start-line="31" selection-start-column="39" selection-end-line="31" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab Strings and RegEx/05_Extract-User-Data/template.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="50" selection-start-line="23" selection-start-column="47" selection-end-line="23" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab Strings and RegEx/04_Replace-a-Certain-Word/solution.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="40" lean-forward="true" selection-start-line="8" selection-start-column="40" selection-end-line="8" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Lab Strings and RegEx/05_Extract-User-Data/solution.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="8" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
