@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="452a6102-5f71-4499-a576-c7eadae3276a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab Strings and RegEx/05_Extract-User-Data/solution.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lab Strings and RegEx/05_Extract-User-Data/solution.js" afterDir="false" />
-    </list>
+    <list default="true" id="452a6102-5f71-4499-a576-c7eadae3276a" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,8 +13,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Lab Strings and RegEx/05_Extract-User-Data/solution.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="655">
-              <caret line="48" column="41" selection-start-line="48" selection-start-column="41" selection-end-line="48" selection-end-column="41" />
+            <state relative-caret-position="238">
+              <caret line="14" selection-start-line="14" selection-end-line="14" />
             </state>
           </provider>
         </entry>
@@ -219,7 +216,7 @@
       <workItem from="1548588075166" duration="5378000" />
       <workItem from="1548660193841" duration="10660000" />
       <workItem from="1548681070766" duration="5220000" />
-      <workItem from="1548767168775" duration="204000" />
+      <workItem from="1548767168775" duration="405000" />
     </task>
     <task id="LOCAL-00001" summary="Upload">
       <created>1547576687679</created>
@@ -515,14 +512,29 @@
       <option name="project" value="LOCAL" />
       <updated>1548686410184</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="Upload">
+      <created>1548767388159</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1548767388159</updated>
+    </task>
+    <task id="LOCAL-00044" summary="Upload">
+      <created>1548767568541</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1548767568541</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="123059000" />
+    <option name="totallyTimeSpent" value="123260000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18337408" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -884,8 +896,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Lab Strings and RegEx/05_Extract-User-Data/solution.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="655">
-          <caret line="48" column="41" selection-start-line="48" selection-start-column="41" selection-end-line="48" selection-end-column="41" />
+        <state relative-caret-position="238">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
