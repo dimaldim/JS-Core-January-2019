@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="452a6102-5f71-4499-a576-c7eadae3276a" name="Default Changelist" comment="" />
+    <list default="true" id="452a6102-5f71-4499-a576-c7eadae3276a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercise Strings and RegEx/01_Binary-Decoding/solution.js" beforeDir="false" afterPath="$PROJECT_DIR$/Exercise Strings and RegEx/01_Binary-Decoding/solution.js" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -11,19 +14,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Lab Strings and RegEx/05_Extract-User-Data/solution.js">
+        <entry file="file://$PROJECT_DIR$/Exercise Strings and RegEx/01_Binary-Decoding/solution.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" selection-start-line="14" selection-end-line="14" />
+            <state relative-caret-position="374">
+              <caret line="22" column="9" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Lab Strings and RegEx/05_Extract-User-Data/template.html">
+        <entry file="file://$PROJECT_DIR$/Exercise Strings and RegEx/01_Binary-Decoding/template.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="23" column="50" selection-start-line="23" selection-start-column="47" selection-end-line="23" selection-end-column="50" />
+            <state relative-caret-position="476">
+              <caret line="28" column="45" selection-start-line="28" selection-start-column="39" selection-end-line="28" selection-end-column="45" />
             </state>
           </provider>
         </entry>
@@ -57,7 +60,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Lab: Document Object Model/04_Register-Notification/solution.js" />
         <option value="$PROJECT_DIR$/Lab: Document Object Model/05_Visited-Sites/solution.js" />
         <option value="$PROJECT_DIR$/Lab: Document Object Model/02_Format-the-Text/solution.js" />
         <option value="$PROJECT_DIR$/Exercise Document Object Model/06_Number-Convertor-Resources/solution.js" />
@@ -108,6 +110,7 @@
         <option value="$PROJECT_DIR$/Lab Strings and RegEx/03_Split-String-Equally/solution.js" />
         <option value="$PROJECT_DIR$/Lab Strings and RegEx/04_Replace-a-Certain-Word/solution.js" />
         <option value="$PROJECT_DIR$/Lab Strings and RegEx/05_Extract-User-Data/solution.js" />
+        <option value="$PROJECT_DIR$/Exercise Strings and RegEx/01_Binary-Decoding/solution.js" />
       </list>
     </option>
   </component>
@@ -131,6 +134,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -138,11 +142,21 @@
               <item name="JS Fundamentals" type="b2602c69:ProjectViewProjectNode" />
               <item name="JS Fundamentals" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="JS Fundamentals" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JS Fundamentals" type="462c0819:PsiDirectoryNode" />
+              <item name="Exercise Strings and RegEx" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JS Fundamentals" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JS Fundamentals" type="462c0819:PsiDirectoryNode" />
+              <item name="Exercise Strings and RegEx" type="462c0819:PsiDirectoryNode" />
+              <item name="01_Binary-Decoding" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -165,11 +179,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.solution.js">
-    <configuration name="template.html (2)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JS-Core-January-2019/Lab Strings and RegEx/02_Find-ASCII-Equivalent/template.html" useBuiltInWebServerPort="true">
-      <method v="2" />
-    </configuration>
-    <configuration name="template.html (3)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JS-Core-January-2019/Lab Strings and RegEx/03_Split-String-Equally/template.html" useBuiltInWebServerPort="true">
+  <component name="RunManager" selected="Node.js.solution.js (1)">
+    <configuration name="template.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JS Fundamentals/Exercise Strings and RegEx/01_Binary-Decoding/template.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="template.html (4)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JS-Core-January-2019/Lab Strings and RegEx/04_Replace-a-Certain-Word/template.html" useBuiltInWebServerPort="true">
@@ -178,16 +189,19 @@
     <configuration name="template.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JS-Core-January-2019/Lab Strings and RegEx/05_Extract-User-Data/template.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
+    <configuration name="solution.js (1)" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Exercise Strings and RegEx/01_Binary-Decoding/solution.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
     <configuration name="solution.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/Lab Strings and RegEx/05_Extract-User-Data/solution.js" working-dir="$PROJECT_DIR$">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Node.js.solution.js (1)" />
+        <item itemvalue="JavaScript Debug.template.html (1)" />
         <item itemvalue="Node.js.solution.js" />
         <item itemvalue="JavaScript Debug.template.html" />
         <item itemvalue="JavaScript Debug.template.html (4)" />
-        <item itemvalue="JavaScript Debug.template.html (3)" />
-        <item itemvalue="JavaScript Debug.template.html (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -217,6 +231,7 @@
       <workItem from="1548660193841" duration="10660000" />
       <workItem from="1548681070766" duration="5220000" />
       <workItem from="1548767168775" duration="405000" />
+      <workItem from="1548849498661" duration="3722000" />
     </task>
     <task id="LOCAL-00001" summary="Upload">
       <created>1547576687679</created>
@@ -530,18 +545,18 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="123260000" />
+    <option name="totallyTimeSpent" value="126982000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18337408" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18581907" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49928367" weight="0.3281075" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49928367" visible="true" weight="0.3281075" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3975364" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -589,20 +604,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Exercise Functions and Logic Flow/05_Cooking-Numbers/solution.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="709">
-          <caret line="63" column="1" selection-start-column="1" selection-end-line="63" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Exercise Functions and Logic Flow/06_Cards-Generator/solution.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="743">
-          <caret line="58" column="1" selection-start-column="1" selection-end-line="58" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Exercise Functions and Logic Flow/08_Binary-Search/solution.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
@@ -905,6 +906,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
           <caret line="23" column="50" selection-start-line="23" selection-start-column="47" selection-end-line="23" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercise Strings and RegEx/01_Binary-Decoding/template.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="45" selection-start-line="28" selection-start-column="39" selection-end-line="28" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercise Strings and RegEx/01_Binary-Decoding/solution.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="9" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
         </state>
       </provider>
     </entry>
