@@ -1,30 +1,36 @@
 function solve() {
-    let buttons = Array.from(document.getElementsByTagName('button'));
-    let exprField = document.getElementById('expressionOutput');
-    let result = document.getElementById('resultOutput');
+    let expressionElement = document.getElementById('expressionOutput');
+    let resultElement = document.getElementById('resultOutput');
+    let expression = '';
 
-    buttons.forEach((button) => {
-        if (button.textContent === '=') {
-            button.addEventListener('click', showResult);
-        } else if (button.textContent === 'Clear') {
-            button.addEventListener('click', clearContent);
-        } else {
-            button.addEventListener('click', add);
-        }
+    Array.from(document.querySelectorAll('button')).forEach(b => {
+        b.addEventListener('click', function () {
+            if (b.textContent === '=') {
+                let parts = expression.split(' ');
+                let leftOperand = Number(parts[0]);
+                let operator = parts[1];
+                let rightOperand = Number(parts[2]);
+
+                if (!leftOperand || !operator || !rightOperand) {
+                    resultElement.textContent = 'NaN';
+                } else {
+                    let result = eval(`${leftOperand} ${operator} ${rightOperand}`);
+                    resultElement.textContent = result;
+                    return;
+                }
+            }
+
+            if (!isNaN(b.textContent) || b.textContent === ".") {
+                expression += b.textContent;
+            } else if (b.textContent === 'Clear') {
+                expression = '';
+                resultElement.textContent = '';
+                expressionElement.textContent = '';
+            } else {
+                expression += ` ${b.textContent} `;
+            }
+
+            expressionElement.textContent = expression;
+        });
     });
-
-    function showResult() {
-
-
-    }
-
-    function clearContent() {
-        exprField.textContent = '';
-        result.textContent = '';
-    }
-
-    function add(e) {
-        exprField.textContent += e.target.textContent;
-    }
-
 }
