@@ -32,13 +32,6 @@ function solve() {
         let checkedTopics = Array.from(document.querySelectorAll('input:checked'));
         checkedTopics.forEach(item => topics.push(item.value));
 
-        let userData = {
-            'username': username,
-            'password': password,
-            'email': email,
-            'topics': topics.join(' '),
-        };
-
         let row = table.insertRow();
         row.style.visibility = 'visible';
         let cell1 = row.insertCell();
