@@ -1,4 +1,4 @@
-function solve() {
+function argumentInfo() {
     let args = argumentInfo.arguments;
     let objects = {};
 

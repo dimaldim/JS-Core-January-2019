@@ -13,4 +13,3 @@ function solve(input) {
         let [comm, value] = st.split(' ');
         result[comm](value);
     }
-}
