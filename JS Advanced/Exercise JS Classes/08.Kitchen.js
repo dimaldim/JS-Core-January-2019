@@ -68,13 +68,17 @@ class Kitchen {
                 if (!this.productsInStock.hasOwnProperty(product)) {
                     allProductsAvailable = false;
                 } else {
-                    this.productsInStock[product] -= qty;
+                    if (this.productsInStock[product] >= qty) {
+                        this.productsInStock[product] -= qty;
+                    } else {
+                        allProductsAvailable = false;
+                    }
+                    this.budget += this.menu[meal].price;
                 }
             });
             if (allProductsAvailable === false) {
                 result = `For the time being, we cannot complete your order (${meal}), we are very sorry...`;
             }
-            this.budget += this.menu[meal].price;
         } else {
             result = `There is not ${meal} yet in our menu, do you want to order something else?`;
         }
