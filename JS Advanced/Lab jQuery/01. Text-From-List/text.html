@@ -4,9 +4,11 @@
     <meta charset="UTF-8">
     <title>Text from List</title>
     <script src="https://code.jquery.com/jquery-3.1.1.min.js" integrity="sha256-hVVnYaiADRTO2PzUGmuLJr8BLUSjGIZsDYGmIJLv2b8="   crossorigin="anonymous"></script>
-    <script src="extractText.js"></script>
+    <script src="extract-text.js"></script>
+    <link rel="stylesheet" href="text.css">
 </head>
 <body>
+<article>
 <ul id="items">
     <li>first item</li>
     <li>second item</li>
@@ -15,5 +17,6 @@
 <button onclick="extractText()">
     Extract Text</button>
 <div id="result"></div>
+</article>
 </body>
 </html>
