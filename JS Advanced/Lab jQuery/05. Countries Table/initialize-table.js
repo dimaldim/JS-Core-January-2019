@@ -17,6 +17,18 @@ function initializeTable() {
     addRow('Bulgaria', 'Sofia');
     addRow('Germany', 'Berlin');
     addRow('Russia', 'Moscow');
+    fixRowLinks();
+
+    function fixRowLinks() {
+
+        $('#countriesTable a').css('display', 'inline');
+
+        let tableRows = $('#countriesTable tr');
+
+        $(tableRows[2]).find("a:contains('Up')").css('display', 'none');
+
+        $(tableRows[tableRows.length - 1]).find("a:contains('Down')").css('display', 'none');
+    }
 
     function addCountry() {
         let country = $('#newCountryText').val();
@@ -26,6 +38,8 @@ function initializeTable() {
 
         $('#newCountryText').val("");
         $('#newCapitalText').val("");
+
+        fixRowLinks();
     }
 
     function moveUp() {
@@ -34,6 +48,8 @@ function initializeTable() {
             row.prev().before(row);
             row.fadeIn();
         });
+
+        fixRowLinks();
     }
 
     function moveDown() {
@@ -42,6 +58,8 @@ function initializeTable() {
             row.next().after(row);
             row.fadeIn();
         });
+
+        fixRowLinks();
     }
 
     function deleteRow() {
@@ -49,6 +67,8 @@ function initializeTable() {
         $(this).parent().parent().fadeOut(function () {
             this.remove();
         });
+
+        fixRowLinks();
 
     }
 
