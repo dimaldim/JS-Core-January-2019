@@ -1,57 +1,22 @@
 function validate() {
-    let submit = $('#submit');
-    let isCompany = $('#company');
+    let usernameRegex = /^[a-zA-Z0-9]{3,20}$/;
+    let passwordRegex = /^\w{5,15}$/;
+    let emailRegex = /@.*\./;
+    let companyNumberRegex = /^[1-9]{1}[0-9]{3}$/;
+    let allFieldsValid = true;
 
-    isCompany.on('change', showHideCompanyInfo);
+    $('#company').on('change', showHideCompany);
 
-    submit.on('click', function (e) {
-        e.preventDefault();
-        let usernameRegex = /^[a-zA-Z0-9]{3,20}$/;
-        let passwordRegex = /^\w{5,15}$/;
-        let emailRegex = /@.*\./;
-        let companyNumberRegex = /^[1-9]{1}[0-9]{3}$/;
+    $('#submit').on('click', function (ev) {
+        ev.preventDefault();
 
-        let valid = true;
+        checkUsername();
+        checkPassword();
+        checkEmail();
+        checkPass();
+        checkCompanyNumber();
 
-        if ($('#username').val().match(usernameRegex)) {
-            $('#username').css('border', 'none');
-        } else {
-            $('#username').css('border-color', 'red');
-            valid = false;
-        }
-
-        if ($('#password').val().match(passwordRegex)) {
-            $('#password').css('border', 'none');
-        } else {
-            $('#password').css('border-color', 'red');
-            valid = false;
-        }
-
-        if ($('#email').val().match(emailRegex)) {
-            $('#email').css('border', 'none');
-        } else {
-            $('#email').css('border-color', 'red');
-            valid = false;
-        }
-
-        if ($('#confirm-password').val().match(passwordRegex) && $('#confirm-password').val().localeCompare($('#password').val()) == 0) {
-            $('#confirm-password').css('border', 'none');
-        } else {
-            $('#confirm-password').css('border-color', 'red');
-            valid = false;
-        }
-
-        isCompany.is(':checked')
-        {
-            if ($('#companyNumber').val().match(companyNumberRegex)) {
-                $('#companyNumber').css('border', 'none');
-            } else {
-                $('#companyNumber').css('border-color', 'red');
-                valid = false;
-            }
-        }
-
-        if (valid) {
+        if (allFieldsValid) {
             $('#valid').css('display', 'block');
         } else {
             $('#valid').css('display', 'none');
@@ -59,12 +24,58 @@ function validate() {
 
     });
 
-    function showHideCompanyInfo() {
+    function showHideCompany() {
         if ($(this).is(':checked')) {
             $('#companyInfo').css('display', 'block');
         } else {
-            $('#companyInfo').css('display', 'none');
+            $('#companyInfo').css('display', 'none')
         }
     }
 
+    function checkUsername() {
+        if ($('#username').val().match(usernameRegex)) {
+            $('#username').css('border', 'none');
+        } else {
+            $('#username').css('border-color', 'red');
+            allFieldsValid = false;
+        }
+    }
+
+    function checkPassword() {
+        if ($('#password').val().match(passwordRegex)) {
+            $('#password').css('border', 'none');
+        } else {
+            $('#password').css('border-color', 'red');
+            allFieldsValid = false;
+        }
+    }
+
+    function checkEmail() {
+        if ($('#email').val().match(emailRegex)) {
+            $('#email').css('border', 'none');
+        } else {
+            $('#email').css('border-color', 'red');
+            allFieldsValid = false;
+        }
+    }
+
+    function checkPass() {
+        if ($('#confirm-password').val().match(passwordRegex) && $('#confirm-password').val().localeCompare($('#password').val()) == 0) {
+            $('#confirm-password').css('border', 'none');
+        } else {
+            $('#confirm-password').css('border-color', 'red');
+            allFieldsValid = false;
+        }
+    }
+
+    function checkCompanyNumber() {
+        if ($('#company').is(':checked')) {
+            if ($('#companyNumber').val().match(companyNumberRegex)) {
+                $('#companyNumber').css('border', 'none');
+            } else {
+                $('#companyNumber').css('border-color', 'red');
+                allFieldsValid = false;
+            }
+        }
+    }
 }
