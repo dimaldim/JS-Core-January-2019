@@ -1,4 +1,5 @@
-function increment(selector) {
+function increment(selector)
+{
     let container = $(selector);
     let fragment = document.createDocumentFragment();
     let textArea = $('<textarea>');
@@ -18,11 +19,13 @@ function increment(selector) {
 
     list.addClass('results');
 
-    $(incrBtn).on('click', function () {
+    $(incrBtn).on('click', function ()
+    {
         textArea.val(+textArea.val() + 1);
     });
 
-    (addBtn).on('click', function () {
+    (addBtn).on('click', function ()
+    {
         let li = $(`<li>${textArea.val()}</li>`);
         li.appendTo(list);
     });
