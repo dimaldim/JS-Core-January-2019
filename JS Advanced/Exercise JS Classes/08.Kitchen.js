@@ -1,6 +1,8 @@
-class Kitchen {
+class Kitchen
+{
 
-    constructor(budget) {
+    constructor(budget)
+    {
         this.budget = budget;
 
         this.menu = {};
@@ -8,22 +10,28 @@ class Kitchen {
         this.actionsHistory = [];
     }
 
-    loadProducts(products) {
-        products.forEach((val) => {
+    loadProducts(products)
+    {
+        products.forEach((val) =>
+        {
             let tokens = val.split(' ');
             let productName = tokens[0];
             let productQuantity = tokens[1];
             let productPrice = tokens[2];
 
-            if (this.budget >= productPrice) {
-                if (!this.productsInStock.hasOwnProperty(productName)) {
+            if (this.budget >= productPrice)
+            {
+                if (!this.productsInStock.hasOwnProperty(productName))
+                {
                     this.productsInStock[productName] = +productQuantity;
-                } else {
+                } else
+                {
                     this.productsInStock[productName] += +productQuantity;
                 }
                 this.budget -= productPrice;
                 this.actionsHistory.push(`Successfully loaded ${productQuantity} ${productName}`);
-            } else {
+            } else
+            {
                 this.actionsHistory.push(`There was not enough money to load ${productQuantity} ${productName}`);
             }
         });
@@ -31,55 +39,71 @@ class Kitchen {
         return this.actionsHistory.join('\n').trim();
     }
 
-    addToMenu(meal, neededProducts, price) {
-        if (!this.menu.hasOwnProperty(meal)) {
+    addToMenu(meal, neededProducts, price)
+    {
+        if (!this.menu.hasOwnProperty(meal))
+        {
             this.menu[meal] = {
                 products: neededProducts,
                 price: price
             };
             return `Great idea! Now with the ${meal} we have ${Object.keys(this.menu).length} meals in the menu, other ideas?`;
-        } else {
+        } else
+        {
             return `The ${meal} is already in our menu, try something different.`;
         }
 
     }
 
-    showTheMenu() {
+    showTheMenu()
+    {
         let str = '';
-        if (Object.keys(this.menu).length === 0) {
+        if (Object.keys(this.menu).length === 0)
+        {
             return 'Our menu is not ready yet, please come later...';
-        } else {
-            for (let key in this.menu) {
+        } else
+        {
+            for (let key in this.menu)
+            {
                 str += `${key} - $ ${this.menu[key].price}\n`;
             }
         }
         return str.trim() + '\n';
     }
 
-    makeTheOrder(meal) {
+    makeTheOrder(meal)
+    {
         let result = '';
-        if (this.menu.hasOwnProperty(meal)) {
+        if (this.menu.hasOwnProperty(meal))
+        {
             let mealProducts = this.menu[meal].products;
             let allProductsAvailable = true;
-            mealProducts.forEach((val) => {
+            mealProducts.forEach((val) =>
+            {
                 let tokens = val.split(' ');
                 let product = tokens[0];
                 let qty = tokens[1];
-                if (!this.productsInStock.hasOwnProperty(product)) {
+                if (!this.productsInStock.hasOwnProperty(product))
+                {
                     allProductsAvailable = false;
-                } else {
-                    if (this.productsInStock[product] >= qty) {
+                } else
+                {
+                    if (this.productsInStock[product] >= qty)
+                    {
                         this.productsInStock[product] -= qty;
-                    } else {
+                    } else
+                    {
                         allProductsAvailable = false;
                     }
                     this.budget += this.menu[meal].price;
                 }
             });
-            if (allProductsAvailable === false) {
+            if (allProductsAvailable === false)
+            {
                 result = `For the time being, we cannot complete your order (${meal}), we are very sorry...`;
             }
-        } else {
+        } else
+        {
             result = `There is not ${meal} yet in our menu, do you want to order something else?`;
         }
 
