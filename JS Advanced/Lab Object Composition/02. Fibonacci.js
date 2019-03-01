@@ -10,5 +10,5 @@ function getFibonator()
 		second = sum;
 		return first;
 	}
+
 }
-let a = 'b';
