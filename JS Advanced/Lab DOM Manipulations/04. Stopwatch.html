@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+ <meta charset="UTF-8">
+ <meta name="viewport" content="width=device-width, initial-scale=1.0">
+ <meta http-equiv="X-UA-Compatible" content="ie=edge">
+ <title>Document</title>
+ <script src="https://code.jquery.com/jquery-3.1.0.min.js"
+         integrity="sha256-cCueBR6CsyA4/9szpPfrX3s49M9vUU5BgtiJj06wt/s="
+         crossorigin="anonymous"></script>
+</head>
+
+<body>
+<div id="time" style="border:3px solid blue; text-align:center; font-size:2em; margin-bottom:10px">00:00</div>
+<button id="startBtn">Start</button>
+<button id="stopBtn" disabled="true">Stop</button>
+<script>
+  window.onload = function stopWatch()
+  {
+    let timer;
+    let div = $('#time');
+    let startBtn = $('#startBtn');
+    let stopBtn = $('#stopBtn');
+
+    startBtn.on('click', (e) =>
+    {
+      e.target.setAttribute('disabled', 'true');
+      stopBtn.removeAttr('disabled');
+      div.text('00:00');
+
+      let secs = 0;
+      let mins = 0;
+
+      timer = setInterval(() =>
+      {
+        secs++;
+        if (secs > 59)
+        {
+          secs = 0;
+          mins++;
+        }
+
+        let string = '';
+        if (mins < 10)
+        {
+          string = `0${mins}`;
+        } else
+        {
+          string = `${mins}`;
+        }
+        if (secs < 10)
+        {
+          string += `:0${secs}`;
+        } else
+        {
+          string += `:${secs}`;
+        }
+        div.text(string);
+      }, 1000);
+    });
+
+    stopBtn.on('click', (e) =>
+    {
+      e.target.setAttribute('disabled', 'true');
+      startBtn.removeAttr('disabled');
+      clearInterval(timer);
+    });
+  }
+</script>
+
+</body>
+
+</html>
