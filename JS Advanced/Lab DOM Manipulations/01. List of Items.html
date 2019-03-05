@@ -1,0 +1,17 @@
+<h1>List of Items</h1>
+<ul id="items">
+	<li>First</li>
+	<li>Second</li>
+</ul>
+<input type="text" id="newItemText" />
+<input type="button" value="Add" onclick="addItem()">
+<script>
+	function addItem()
+	{
+		let input = document.getElementById('newItemText').value;
+		let ul = document.getElementById('items');
+		let li = document.createElement('li');
+		li.textContent = input;
+		ul.appendChild(li);
+	}
+</script>
