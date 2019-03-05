@@ -2,32 +2,31 @@
 <html lang="en">
 
 <head>
-	<meta charset="UTF-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<meta http-equiv="X-UA-Compatible" content="ie=edge">
-	<title>Document</title>
-	<script src="https://code.jquery.com/jquery-3.1.0.min.js" integrity="sha256-cCueBR6CsyA4/9szpPfrX3s49M9vUU5BgtiJj06wt/s="
-	 crossorigin="anonymous"></script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <script src="https://code.jquery.com/jquery-3.1.0.min.js"
+            integrity="sha256-cCueBR6CsyA4/9szpPfrX3s49M9vUU5BgtiJj06wt/s="
+            crossorigin="anonymous"></script>
 </head>
 
 <body>
-	<h1>List of Items</h1>
-	<ul id="items"></ul>
-	<input type="text" id="newText" />
-	<input type="button" value="Add" onclick="addItem()">
-	<script>
-		function addItem()
-		{
-			let text = $('#newText').val();
+<h1>List of Items</h1>
+<ul id="items"></ul>
+<input type="text" id="newText"/>
+<input type="button" value="Add" onclick="addItem()">
+<script>
+    function addItem() {
+        let text = $('#newText').val();
 
-			$('#items').append($(`<li>${text} <a href="#">[Delete]</a></li>`));
+        $('#items').append($(`<li>${text} <a href="#">[Delete]</a></li>`));
 
-			let deleteLink = $('a').on('click', (e) =>
-			{
-				e.target.parentNode.remove();
-			});
-		}
-	</script>
+        let deleteLink = $('a').on('click', (e) => {
+            e.target.parentNode.remove();
+        });
+    }
+</script>
 </body>
 
 </html>
