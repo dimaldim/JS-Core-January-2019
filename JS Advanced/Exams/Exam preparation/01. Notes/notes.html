@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Sticky Notes</title>
+    <script src="https://code.jquery.com/jquery-3.1.0.min.js"
+            integrity="sha256-cCueBR6CsyA4/9szpPfrX3s49M9vUU5BgtiJj06wt/s="
+            crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="text">
+    <div class="title-input">
+        <label>Title: </label>
+        <input class="title" maxlength="11">
+    </div>
+    <div class="text-input">
+        <label>Text: </label>
+        <input class="content" maxlength="102">
+    </div>
+</div>
+<div class="btn">
+    <button id="add-sticker" onclick="addSticker()"> Add new sticker</button>
+</div>
+<div class="stickerBoard">
+    <ul id="sticker-list"></ul>
+</div>
+<script src="solution.js"></script>
+</body>
+</html>
