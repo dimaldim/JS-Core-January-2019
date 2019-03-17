@@ -167,6 +167,8 @@ hotel.roomService(3, 'drink');
 hotel.roomService(2, 'room');
 hotel.roomService(2, 'drink');
 
+console.log(hotel.checkOut(2));
+
 console.log(hotel.report());
 
 
