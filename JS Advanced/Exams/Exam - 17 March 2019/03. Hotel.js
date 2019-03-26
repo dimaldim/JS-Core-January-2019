@@ -41,7 +41,13 @@ class Hotel {
                 this.currentBookingNumber++;
                 this.singleRooms--;
             } else {
-                message = `No single rooms available! Available double rooms: ${this.doubleRooms}. Available maisonette rooms: ${this.maisonettes}`;
+                message = `No single rooms available!`;
+                if (this.doubleRooms > 0) {
+                    message += ` Available double rooms: ${this.doubleRooms}.`;
+                }
+                if (this.maisonettes > 0) {
+                    message += ` Available maisonette rooms: ${this.maisonettes}.`;
+                }
             }
         }
         if (roomType === 'double') {
@@ -57,7 +63,13 @@ class Hotel {
                 this.currentBookingNumber++;
                 this.doubleRooms--;
             } else {
-                message = `No ${roomType} rooms available! Available single rooms: ${this.singleRooms}. Available maisonette rooms: ${this.maisonettes}`;
+                message = `No double rooms available!`;
+                if (this.singleRooms > 0) {
+                    message += ` Available single rooms: ${this.singleRooms}.`;
+                }
+                if (this.maisonettes > 0) {
+                    message += ` Available maisonette rooms: ${this.maisonettes}.`;
+                }
             }
         }
         if (roomType === 'maisonette') {
@@ -73,7 +85,13 @@ class Hotel {
                 this.currentBookingNumber++;
                 this.maisonettes--;
             } else {
-                message = `No ${roomType} rooms available! Available single rooms: ${this.singleRooms}. Available double rooms: ${this.doubleRooms}`;
+                message = `No maisonette rooms available!`;
+                if (this.singleRooms > 0) {
+                    message += ` Available single rooms: ${this.doubleRooms}.`;
+                }
+                if (this.doubleRooms > 0) {
+                    message += ` Available double rooms: ${this.maisonettes}.`;
+                }
             }
         }
 
@@ -156,19 +174,41 @@ ${totalMoney + totalServiceMoney} BGN. You have used additional room services, c
     }
 }
 
-let hotel = new Hotel('HotUni', 10);
+let
+    hotel = new Hotel('HotUni', 10);
 
-hotel.rentARoom('Peter', 'single', 4);
-hotel.rentARoom('Robert', 'double', 4);
-hotel.rentARoom('Geroge', 'maisonette', 6);
+console
+    .log(hotel
 
-hotel.roomService(3, 'housekeeping');
-hotel.roomService(3, 'drink');
-hotel.roomService(2, 'room');
-hotel.roomService(2, 'drink');
+        .rentARoom(
+            'Peter'
+            ,
+            'maisonette'
+            ,
+            4
+        ))
+;
+console
+    .log(hotel
 
-console.log(hotel.checkOut(2));
+        .rentARoom(
+            'Peter'
+            ,
+            'maisonette'
+            ,
+            4
+        ))
+;
+console
+    .log(hotel
 
-console.log(hotel.report());
+        .rentARoom(
+            'Peter'
+            ,
+            'maisonette'
+            ,
+            4
+        ))
+;
 
 
