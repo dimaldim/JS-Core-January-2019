@@ -26,6 +26,15 @@
   </section>
 </body>
 <script type="text/x-handlebars-template" id="monkey-template">
-  /* Write your template here */
+  {{#each monkeys}}
+  <div class="monkey">
+    <h2>{{name}}</h2>
+    <img src="{{image}}">
+    <button>Info</button>
+    <p style="display: none" id="{{id}}">
+      {{info}}
+    </p>
+  </div>
+  {{/each}}
 </script>
 </html>
