@@ -1,0 +1,1 @@
+Използвано е PHPSTORM + XAMPP.
